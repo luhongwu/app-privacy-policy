@@ -3,8 +3,9 @@
 **应用名称**：AI 发型（HairStyleApp）
 **开发者**：HONGWU LU（个人开发者）
 **生效日期**：2026 年 7 月 26 日
-**最后更新**：2026 年 7 月 26 日
+**最后更新**：2026 年 7 月 28 日
 **联系邮箱**：hongwu.lu@outlook.com
+**版权所有**：© 2026 HONGWU LU. 保留所有权利（All rights reserved）。
 
 ---
 
@@ -14,7 +15,7 @@
 
 **您下载、安装或使用本应用，即表示您已阅读、理解并同意接受本协议全部条款的约束。** 如果您不同意本协议的任何条款，请立即停止使用并卸载本应用。
 
-本应用的隐私政策（<https://luhongwu.github.io/app-privacy-policy/ai_hair_style.html>）是本协议不可分割的组成部分，与本协议具有同等效力。
+本应用的隐私政策（[隐私政策](https://luhongwu.github.io/app-privacy-policy/ai_hair_privacy_policy.html)）是本协议不可分割的组成部分，与本协议具有同等效力。
 
 ---
 
@@ -36,7 +37,7 @@
 
 ### 2.3 付费模式
 
-本应用为 **Google Play 付费下载**应用，一次性购买后即可使用全部功能，无应用内订阅、无内购项目、无广告。购买、支付与退款均由 Google Play 依据其服务条款处理，开发者不接触您的任何支付信息。
+本应用为 **应用商店付费下载**应用，一次性购买后即可使用全部功能，无应用内订阅、无内购项目、无广告。购买、支付与退款均由应用商店依据其服务条款处理，开发者不接触您的任何支付信息。
 
 ---
 
@@ -51,10 +52,9 @@
 ### 3.2 额度规则
 
 - **额度**：每个自然周（ISO 周）最多可发起 **100 次** AI 生成请求；
-- **重置时间**：每周一 00:00（您设备的本地时间）自动重置；
+- **重置时间**：每周一 00:00 自动重置；
 - **不累积**：当周末用完的额度不会累积到下一周；
 - **计数方式**：每提交一次生成任务计 1 次（无论生成成功与否）；
-- **记录方式**：调用次数仅通过**设备本地加密存储**进行记录，不会上传至任何服务器；
 - **额度调整**：开发者有权根据运营情况调整额度上限，调整将通过应用更新或协议更新的方式公布。
 
 **您理解并同意：本应用为付费买断制，每周生成额度为服务附带的合理使用限制，而非按次计费服务。** 当达到每周上限后，您可以在下周一额度重置后继续使用，开发者不提供付费增加额度的渠道。
@@ -83,7 +83,7 @@
 
 您不得：
 
-- 对本应用进行反向工程、反编译、破解或篡改（包括但不限于绕过 Google Play 许可校验、修改每周额度限制）；
+- 对本应用进行反向工程、反编译、破解或篡改（包括但不限于绕过正版校验、篡改本应用的额度或功能限制机制）；
 - 使用自动化工具、脚本或任何非人工方式批量调用生成功能；
 - 利用本应用从事任何违法违规活动；
 - 干扰或破坏本应用及其依赖的第三方服务的正常运行。
@@ -98,11 +98,20 @@
 
 ### 5.1 本应用的知识产权
 
-本应用及其包含的全部内容（包括但不限于代码、界面设计、发型预览图、图标、文字、商标）的知识产权归开发者或相应权利人所有，受著作权法及相关法律法规保护。未经书面许可，您不得复制、传播、出售或以任何方式商业化使用。
+本应用及其包含的全部内容（包括但不限于源代码、界面与交互设计、发型预览图、图标、文字、商标、名称及整体视觉风格，以下简称"本应用内容"）的知识产权归开发者或相应权利人所有，受《著作权法》《商标法》及相关法律法规与国际条约保护。保留所有权利（All rights reserved）。
+
+未经开发者事先书面许可，您不得，亦不得允许任何第三方：
+
+- **复制、反编译、逆向工程或试图提取本应用的源代码、算法或底层逻辑**；
+- **复制、截图、模仿或再创作本应用的界面布局、视觉设计、交互流程或整体风格**用于其他产品或商业用途；
+- **复制、传播、出售、出租或以任何方式商业化使用本应用内容**；
+- **移除、遮盖或篡改本应用中任何著作权、商标或其他权利声明**。
+
+本应用可能包含第三方提供的组件、素材或开源软件，其知识产权归各自权利人所有，并受相应许可协议约束；除前述第三方内容外，本应用内容的汇编与整体权利均归开发者所有。
 
 ### 5.2 您的照片
 
-您上传照片的知识产权仍归您或原权利人所有。您授予我们一项有限的、非独占的许可，仅允许为完成 AI 生成处理之目的，将照片临时传输至第三方 AI 接口。我们不会将您的照片用于任何其他用途。
+您上传照片的知识产权仍归您或原权利人所有。您授予我们一项有限的、非独占的许可，仅允许为完成 AI 生成处理之目的，将照片临时传输至第三方 AI 接口。我们不会将您的照片用于任何其他用途。您理解并同意，您上传的照片可能包含人脸信息，属敏感个人信息；您上传即表示单独同意其仅用于 AI 生成处理。
 
 ### 5.3 生成结果
 
@@ -112,11 +121,11 @@ AI 生成的效果图**供您个人非商业用途使用**（如个人欣赏、�
 
 ## 6. 第三方服务
 
-本应用的 AI 生成功能依赖第三方图像处理接口（`api.aihairstyle.cn`，隐私政策：<https://www.aihairstyle.cn/privacy-policy>）。您理解并同意：
+本应用的 AI 生成功能依赖第三方图像处理服务（其隐私政策：[隐私政策](https://www.aihairstyle.cn/privacy-policy)）。您理解并同意：
 
 - 生成服务的可用性、速度与效果部分取决于第三方服务，该服务中断、维护或调整可能导致本应用功能暂时不可用；
 - 您上传的照片将按照第三方隐私政策处理（其承诺图片在 24 小时内自动删除）；
-- 购买与退款由 Google Play 处理，适用 Google 的相关条款。
+- 购买与退款由应用商店处理，适用应用商店的相关条款。
 
 ---
 
@@ -135,7 +144,7 @@ AI 生成的效果图**供您个人非商业用途使用**（如个人欣赏、�
 在法律允许的最大范围内，开发者不对以下损失承担责任：
 
 - 因使用或无法使用本应用导致的任何间接、偶然、特殊或后果性损失；
-- 因第三方 AI 服务、Google Play 服务或网络故障导致的服务中断；
+- 因第三方 AI 服务、应用商店服务或网络故障导致的服务中断；
 - 因您违反本协议（尤其是第 4 条用户行为规范）产生的任何后果。
 
 开发者的累计赔偿责任以您购买本应用实际支付的金额为上限。
@@ -148,7 +157,7 @@ AI 生成的效果图**供您个人非商业用途使用**（如个人欣赏、�
 
 ## 8. 未成年人使用
 
-本应用不面向 13 周岁以下的儿童。13 周岁以上、18 周岁以下的未成年人应在监护人同意与指导下使用本应用并阅读本协议。
+本应用可供 **13 周岁及以上**用户使用。不满 18 周岁的未成年人应在监护人同意与指导下使用本应用并阅读本协议。对于不满 14 周岁的儿童（依中国法律属于儿童），我们在处理其人脸等敏感个人信息前会取得监护人的**单独同意**。
 
 ---
 
@@ -162,7 +171,7 @@ AI 生成的效果图**供您个人非商业用途使用**（如个人欣赏、�
 
 ## 10. 适用法律与争议解决
 
-本协议的订立、执行与解释适用开发者所在地法律（不适用冲突法规则）。因本协议产生的争议，双方应首先友好协商解决；协商不成的，任何一方可向有管辖权的人民法院提起诉讼。
+本协议的订立、执行与解释适用开发者所在地法律（不适用冲突法规则）。本条款不排除您所在地法律中强制性消费者保护规则的适用。因本协议产生的争议，双方应首先友好协商解决；协商不成的，任何一方均可向有管辖权的人民法院提起诉讼；若您为消费者，您亦有权选择向您所在地有管辖权的法院提起诉讼。
 
 ---
 
@@ -182,10 +191,11 @@ AI 生成的效果图**供您个人非商业用途使用**（如个人欣赏、�
 **App**: AI Hairstyle (HairStyleApp) — **Developer**: HONGWU LU (Individual) — **Effective Date**: July 26, 2026 — **Contact**: hongwu.lu@outlook.com
 
 - **Service**: an AI hairstyle preview tool. Photos you upload are processed by a third-party AI API to generate hairstyle previews. **For entertainment and reference only** — results are AI simulations, not real styling outcomes.
-- **Pricing**: one-time paid download on Google Play. No subscriptions, no in-app purchases, no ads. Payments and refunds are handled entirely by Google Play.
+- **Pricing**: one-time paid download via the app store. No subscriptions, no in-app purchases, no ads. Payments and refunds are handled entirely by the app store.
 - **Weekly usage limit**: every generation call incurs a real per-request cost from the third-party AI API. Since the app is sold as a one-time purchase (not pay-per-use or subscription), a fair-use cap keeps the service sustainable: up to **100 generation requests per week (ISO week)**, resetting every Monday at 00:00 local time — roughly 14+ generations per day, ample for typical use. Unused quota does not roll over. Call counts are recorded only in encrypted on-device storage; no paid top-ups are offered.
 - **Your obligations**: upload only photos of yourself or with the subject's explicit authorization; no illegal, infringing, or unauthorized content; no reverse engineering, license-check bypass, quota tampering, or automated abuse.
-- **Intellectual property**: the app and its contents belong to the developer; your photos remain yours; generated images are licensed to you for **personal, non-commercial use** only.
+- **Intellectual property**: the app, its source code, UI/interface design, icons, and trademarks are protected by copyright and trademark law (all rights reserved). You may not reverse engineer, extract the source code, or copy/imitate the UI for other products. Third-party components remain owned by their respective owners under their own licenses; your photos remain yours; generated images are licensed to you for **personal, non-commercial use** only.
 - **Disclaimers**: the app is provided "as is" without warranties of result quality or uninterrupted availability; liability is capped at the purchase price you paid; local data loss from device issues or uninstallation is not recoverable.
-- **Children**: not directed to children under 13.
+- **Children**: available to users aged 13 and above; minors under 18 should use it with parental consent. For children under 14 (children under Chinese law), we obtain separate parental consent before processing facial data.
+- **Sensitive data**: uploaded photos may contain facial images (sensitive personal information); by uploading you consent to their use only for generation.
 - **Changes & contact**: updates will be posted at this URL. Questions: **hongwu.lu@outlook.com**.
