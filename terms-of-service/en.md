@@ -42,27 +42,25 @@ The App is an **AI hairstyle preview tool**. You upload your photo, select a hai
 
 ### 2.3 Pricing Model
 
-The App is a **one-time paid download via the app store**. After a single purchase, you may use all features — no in-app subscriptions, no in-app purchases, no ads. Purchases, payments, and refunds are handled entirely by the app store in accordance with its terms of service. The Developer does not access any of your payment information.
+The App is a **free download** with in-app subscription services. Subscribing unlocks full access to all AI generation features during the subscription period. Purchases, payments, and refunds are handled entirely by the app store in accordance with its terms of service. The Developer does not access any of your payment information.
 
 ---
 
-## 3. Usage Limits (Weekly Generation Quota)
+## 3. Usage Limits
 
-### 3.1 Why There Is a Quota
+### 3.1 Fair Use Policy
 
-Every AI generation in this App calls a **pay-per-request third-party AI API**, and the Developer incurs actual costs for each generation request. Since the App uses a **one-time purchase** model (rather than pay-per-use or subscription), a reasonable usage cap is necessary to keep the service sustainable at an affordable price. We appreciate your understanding and support.
+Every AI generation in this App calls a pay-per-request third-party AI API, and the Developer incurs actual costs for each generation request. A fair use policy is necessary to maintain long-term service sustainability while delivering a quality experience. We appreciate your understanding and support.
 
-The weekly 100-generation quota has been thoroughly calculated and is **sufficient for the vast majority of normal usage** (equivalent to an average of 14+ generations per day). This limit only targets exceptionally high-frequency usage and serves as a necessary measure to prevent API abuse.
+This policy is designed to safeguard the normal usage experience of the vast majority of users while preventing API abuse or abnormally high-frequency usage.
 
-### 3.2 Quota Rules
+### 3.2 Service Policy
 
-- **Quota**: Up to **100** AI generation requests per calendar week (ISO week);
-- **Reset**: Automatically resets every Monday at 00:00;
-- **No Rollover**: Unused quota does not roll over to the next week;
-- **Counting**: Each submitted generation task counts as 1 request (regardless of success);
-- **Quota Adjustment**: The Developer reserves the right to adjust the quota cap based on operational needs; adjustments will be announced via app updates or updates to this Agreement.
+- **Usage Limit**: The App implements a dynamic usage frequency cap based on actual operational conditions, to maintain service quality and fairness;
+- **Periodic Reset**: Usage counts are automatically reset on a regular basis; the specific cycle and rules are as displayed within the App;
+- **Policy Adjustment**: The Developer reserves the right to adjust the usage policy in response to operational costs, third-party API pricing changes, and service load conditions. Adjustments will be announced via app updates or updates to this Agreement.
 
-**You understand and agree that the App is a one-time purchase, and the weekly generation quota is a fair-use limit accompanying the service, not a pay-per-use service.** Once the weekly cap is reached, you may continue using the App after the quota resets the following Monday. The Developer does not offer paid channels to increase the quota.
+**You understand and agree that the accompanying fair use policy is a necessary measure to ensure sustainable service operation.** The Developer reserves the right to dynamically adjust the service policy based on actual operational conditions.
 
 ---
 
@@ -160,7 +158,7 @@ To the fullest extent permitted by law, the Developer shall not be liable for:
 - Service interruptions caused by third-party AI services, app store services, or network failures;
 - Any consequences arising from your violation of this Agreement (particularly Section 4, User Conduct).
 
-The Developer's cumulative liability is capped at the amount you actually paid to purchase the App.
+The Developer's cumulative liability is capped at the amount you actually paid for using the App.
 
 ### 7.3 Device and Data
 

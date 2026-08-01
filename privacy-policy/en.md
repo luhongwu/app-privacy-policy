@@ -67,7 +67,7 @@ The following data is stored only on your device and is **never uploaded to any 
 
 | Data Type | Storage Method | Purpose |
 |-----------|---------------|---------|
-| In-app feature usage statistics | Device-encrypted storage | Used for fair-use limit enforcement within the App |
+| Service usage statistics | Device-encrypted storage | Used to maintain service fairness and normal operation |
 | History records (hairstyle ID, color ID, remote URLs and local file paths of generated images, timestamps) | App private directory | Displaying your generation history |
 | Theme (dark/light mode, theme color) and language preferences | App private directory | Remembering your interface preferences |
 | In-progress generation task information | App private directory (expires after 24 hours) | Recovering unfinished generation tasks after app interruption |
@@ -93,7 +93,7 @@ All permissions are triggered only when you actively use the corresponding featu
 
 ## 6. Payment Information
 
-The App is a **paid download via the app store**. The purchase and payment process is handled entirely by the **app store**, subject to the app store's terms of service and privacy policy.
+The App is a **free download** with in-app subscription services. The subscription purchase and payment process is handled entirely by the **app store**, subject to the app store's terms of service and privacy policy.
 
 We **do not access, collect, or store** any of your payment information, including but not limited to bank card numbers, billing addresses, Google account payment credentials, etc. Refund requests should be processed through the official app store channels.
 
@@ -107,7 +107,7 @@ The App uses the following third-party services, which may process data in accor
 |--------------------|---------|---------------|
 | Third-party AI image processing service | Processing photos and generating hairstyle preview images | Photos you upload, selected hairstyle and color parameters |
 | Firebase Analytics (Google) | Anonymized app usage statistics | Anonymous events (page views, feature usage counts, etc.), device language/theme preferences, and other anonymous attributes |
-| App store (paid distribution) | App distribution, paid purchase | Handled by the app store per its privacy policy |
+| App store | App distribution, subscription purchase | Handled by the app store per its privacy policy |
 
 For the third-party AI image processing service, please refer to its [Privacy Policy](https://www.aihairstyle.cn/privacy-policy). According to its privacy policy, uploaded images are used only for real-time processing and will be **automatically deleted within 24 hours** and not retained long-term.
 
@@ -124,7 +124,7 @@ The third-party AI image processing service that the App relies on is deployed w
 We take the following measures to protect your information:
 
 - All network communications with the third-party AI API are transmitted via **HTTPS (TLS) encryption**;
-- Call count data is stored using **device-level encrypted storage**;
+- Service usage statistics are stored using **device-level encrypted storage**;
 - Other preference and history data is stored within the App's sandboxed private directory, inaccessible to other applications;
 - The App is configured with **system backup disabled** (`allowBackup=false`) to prevent accidental export of local data;
 - Release builds are code-obfuscated to reduce the risk of reverse engineering and tampering.
@@ -136,7 +136,7 @@ It should be noted that no method of internet transmission or electronic storage
 ## 9. Data Retention and Deletion
 
 - **Photos**: Photos are only temporarily transmitted to the third-party AI API during the generation process. Per its [Privacy Policy](https://www.aihairstyle.cn/privacy-policy), uploaded images will be automatically deleted within 24 hours.
-- **Local Data**: History records, preference settings, call counts, and other data are retained solely on your device until you manually delete history records or uninstall the App. Uninstalling the App will delete all local data stored by the App.
+- **Local Data**: History records, preference settings, service usage statistics, and other data are retained solely on your device until you manually delete history records or uninstall the App. Uninstalling the App will delete all local data stored by the App.
 - **Task Recovery Data**: Recovery information for in-progress tasks automatically expires after 24 hours.
 
 ---
