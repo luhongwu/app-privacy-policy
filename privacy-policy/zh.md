@@ -1,7 +1,7 @@
-# 隐私政策（Privacy Policy）
+# 隐私政策
 
 **应用名称**：AI 发型（HairStyleApp）
-**开发者**：HONGWU LU（个人开发者）
+**开发者**：HONGWU LU
 **生效日期**：2026 年 7 月 26 日
 **最后更新**：2026 年 7 月 28 日
 **联系邮箱**：hongwu.lu@outlook.com
@@ -10,7 +10,7 @@
 
 ## 1. 引言
 
-本隐私政策适用于由个人开发者 HONGWU LU（以下简称"我们"或"开发者"）开发并发布的移动应用「AI 发型（HairStyleApp）」（以下简称"本应用"）。本应用是一款 AI 发型预览工具，用户上传本地照片、选择发型与发色后，通过第三方 AI 接口生成换发型预览效果图。
+本隐私政策适用于由 HONGWU LU（以下简称"我们"或"开发者"）开发并发布的移动应用「AI 发型（HairStyleApp）」（以下简称"本应用"）。本应用是一款 AI 发型预览工具，用户上传本地照片、选择发型与发色后，通过第三方 AI 接口生成换发型预览效果图。
 
 我们高度重视您的隐私。本政策旨在说明本应用在使用过程中涉及哪些信息、这些信息如何被使用与保护，以及您享有的权利。**本应用的核心设计原则是：尽可能不收集任何个人信息。**
 
@@ -27,7 +27,7 @@
 - 通讯录、通话记录、短信
 - 设备标识符（IMEI、Android ID、广告 ID 等）的收集与上报
 - 支付信息（银行卡号、支付账户等）
-- 使用行为分析数据（本应用未集成任何统计分析或广告 SDK）
+- 使用行为分析数据（本应用集成的 Firebase Analytics 仅收集匿名化事件数据，详见第 7 条）
 
 ---
 
@@ -82,7 +82,6 @@
 | 相机（CAMERA） | 拍摄照片用于发型生成（仅在您主动点击拍照时调用） |
 | 读取相册/媒体图片（READ_MEDIA_IMAGES / READ_EXTERNAL_STORAGE） | 从相册选择照片用于发型生成 |
 | 写入存储（WRITE_EXTERNAL_STORAGE） | 将您主动保存的生成结果图片写入系统相册 |
-| 应用商店正版校验 | 校验应用为官方应用商店的正版付费下载，保护开发者与您的权益 |
 
 所有权限仅在您主动使用对应功能时触发，本应用不会在后台擅自调用。
 
@@ -103,11 +102,14 @@
 | 第三方服务 | 用途 | 涉及数据 |
 |------------|------|----------|
 | 第三方 AI 图像处理服务 | 处理照片并生成换发型效果图 | 您主动上传的照片、所选发型与发色参数 |
-| 应用商店（付费分发与正版校验） | 应用分发、付费购买、正版许可校验 | 由应用商店按其隐私政策处理 |
+| Firebase Analytics（Google） | 匿名化应用使用统计 | 匿名事件（页面浏览、功能使用次数等）、设备语言/主题偏好等匿名属性 |
+| 应用商店（付费分发） | 应用分发、付费购买 | 由应用商店按其隐私政策处理 |
 
 其中，第三方 AI 图像处理服务的隐私政策请见：[隐私政策](https://www.aihairstyle.cn/privacy-policy)。据其隐私政策，您上传的图片仅用于实时生成处理，并将在 **24 小时内自动删除**，不会被长期留存。
 
-我们建议您查阅上述第三方的隐私政策，以了解其数据处理实践。除上述服务外，本应用不集成任何广告、统计、社交分享或数据分析类第三方 SDK，不会向任何第三方出售、出租或共享您的个人信息。
+Firebase Analytics 由 Google 提供，用于收集匿名化的应用使用统计数据（如功能使用频率、页面访问等），帮助我们改进产品体验。Firebase Analytics **不会收集**您的姓名、邮箱、设备标识符、精确位置或您上传的照片等个人身份信息。您可以通过设备设置中的"限制广告追踪"选项选择退出分析数据采集。Firebase 的隐私政策请见：[Firebase 隐私政策](https://firebase.google.com/support/privacy)。
+
+我们建议您查阅上述第三方的隐私政策，以了解其数据处理实践。除上述服务外，本应用不集成任何广告、社交分享或其他数据分析类第三方 SDK，不会向任何第三方出售、出租或共享您的个人信息。
 
 本应用所依赖的第三方 AI 图像处理服务部署于中国境内。依据中国《个人信息保护法》，您的个人信息不会被传输至中国境外（不构成个人信息出境）；若您身处中国境外，相关传输将按您所在地适用法律（如欧盟《通用数据保护条例》GDPR）作为跨境传输处理，我们采用合同等合理保障措施。
 
@@ -137,7 +139,7 @@
 
 ## 10. 儿童隐私
 
-本应用可供 **13 周岁及以上**用户使用。不满 18 周岁的未成年人应在监护人同意与指导下使用本应用。对于不满 14 周岁的儿童（依中国《儿童个人信息网络保护规定》属于儿童），我们在处理其人脸等敏感个人信息前会取得监护人的**单独同意**。若您是儿童的监护人，并发现儿童在未经监护人同意的情况下使用了本应用，请通过本政策末尾的联系方式与我们取得联系，我们将协助处理相关照片的删除。
+本应用可供 **13 周岁及以上**用户使用。不满 18 周岁的未成年人应在监护人同意与指导下使用本应用。对于不满 14 周岁的儿童（依中国《儿童个人信息网络保护规定》属于儿童），监护人应当对儿童使用本应用的行为进行监督，并对上传照片等行为负责。若您是儿童的监护人，并发现儿童在未经您同意的情况下使用了本应用，可通过卸载本应用清除所有本地数据；已上传至第三方 AI 服务的照片将在 24 小时内自动删除。
 
 ---
 
@@ -149,7 +151,7 @@
 - 您可以随时在应用内删除历史记录；
 - 您可以随时在系统设置中撤销已授予的相机、相册等权限（撤销后对应功能将无法使用，但不影响其他功能）；
 - 您可以通过卸载本应用彻底删除本应用在您设备上的全部数据；
-- 对于已上传至第三方 AI 服务的照片，您可通过上述联系方式要求我们协助向该服务商发起删除（其亦承诺 24 小时内自动删除）；
+- 对于已上传至第三方 AI 服务的照片，该服务商承诺在 24 小时内自动删除，您无需额外操作；
 - 您还有权向所在地相关监管机构（如中国网信部门、欧盟数据保护机关）投诉或举报。
 
 ---
@@ -168,19 +170,3 @@
 - **电子邮箱**：hongwu.lu@outlook.com
 
 我们将在收到您的反馈后尽快回复（通常在 7 个工作日内）。
-
----
-
-# Privacy Policy (English Summary)
-
-**App**: AI Hairstyle (HairStyleApp) — **Developer**: HONGWU LU (Individual) — **Effective Date**: July 26, 2026 — **Contact**: hongwu.lu@outlook.com
-
-- **No personal data collected**: no registration, no phone numbers, no location, no contacts, no device identifiers, no analytics or advertising SDKs.
-- **Your photos**: photos you take or pick are compressed locally and uploaded over HTTPS **only** to a third-party AI image processing service to generate hairstyle previews. Your photos are never retained by us beyond the generation process. Per the third party's [privacy policy](https://www.aihairstyle.cn/privacy-policy), uploaded images are used only for real-time processing and are **automatically deleted within 24 hours**.
-- **Local-only storage**: weekly call-count data (encrypted on-device via Android Keystore-backed Encrypted Storage), generation history, and theme/language preferences are stored only on your device and are removed when you uninstall the app.
-- **Payments**: the app is a paid download via the app store; all payment processing is handled entirely by the app store. We never see or store your payment information.
-- **Permissions**: Camera, Photos/Media, Storage, and Network are used solely for the core features described above; app-store license verification is used for official authorization checks.
-- **Children**: the app is available to users aged 13 and above. Minors under 18 should use the app with parental consent and guidance. For children under 14 (classified as children under China's regulations), we obtain separate parental consent before processing their facial (sensitive) information.
-- **Sensitive data & cross-border**: uploaded photos may contain facial images (sensitive personal information); by uploading you separately consent to their use only for generation. Processing is based in China; if you are outside China, transfers are handled per applicable law (e.g., GDPR) with contractual safeguards.
-- **Your rights**: delete local history anytime, ask us to assist deletion of photos held by the third-party AI service, and lodge a complaint with your local data-protection authority.
-- **Changes & contact**: any updates to this policy will be posted at this URL. Questions: **hongwu.lu@outlook.com**.

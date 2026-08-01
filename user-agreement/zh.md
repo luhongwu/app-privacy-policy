@@ -1,7 +1,7 @@
-# 用户协议（Terms of Service）
+# 用户协议
 
 **应用名称**：AI 发型（HairStyleApp）
-**开发者**：HONGWU LU（个人开发者）
+**开发者**：HONGWU LU
 **生效日期**：2026 年 7 月 26 日
 **最后更新**：2026 年 7 月 28 日
 **联系邮箱**：hongwu.lu@outlook.com
@@ -11,11 +11,11 @@
 
 ## 1. 协议的接受
 
-本用户协议（以下简称"本协议"）由您与个人开发者 HONGWU LU（以下简称"开发者"或"我们"）就您下载、安装、使用「AI 发型（HairStyleApp）」（以下简称"本应用"）所订立。
+本用户协议（以下简称"本协议"）由您与 HONGWU LU（以下简称"开发者"或"我们"）就您下载、安装、使用「AI 发型（HairStyleApp）」（以下简称"本应用"）所订立。
 
 **您下载、安装或使用本应用，即表示您已阅读、理解并同意接受本协议全部条款的约束。** 如果您不同意本协议的任何条款，请立即停止使用并卸载本应用。
 
-本应用的隐私政策（[隐私政策](https://luhongwu.github.io/app-privacy-policy/ai_hair_privacy_policy.html)）是本协议不可分割的组成部分，与本协议具有同等效力。
+本应用的隐私政策是本协议不可分割的组成部分，与本协议具有同等效力。
 
 ---
 
@@ -121,11 +121,19 @@ AI 生成的效果图**供您个人非商业用途使用**（如个人欣赏、�
 
 ## 6. 第三方服务
 
+本应用使用以下第三方服务：
+
+### 6.1 AI 图像处理服务
+
 本应用的 AI 生成功能依赖第三方图像处理服务（其隐私政策：[隐私政策](https://www.aihairstyle.cn/privacy-policy)）。您理解并同意：
 
 - 生成服务的可用性、速度与效果部分取决于第三方服务，该服务中断、维护或调整可能导致本应用功能暂时不可用；
 - 您上传的照片将按照第三方隐私政策处理（其承诺图片在 24 小时内自动删除）；
 - 购买与退款由应用商店处理，适用应用商店的相关条款。
+
+### 6.2 Firebase Analytics
+
+本应用集成 Firebase Analytics（由 Google 提供），用于收集匿名化的应用使用统计数据（如页面访问次数、功能使用频率等），以帮助我们改进产品体验。Firebase Analytics **不会收集**您的个人身份信息（如姓名、邮箱、设备标识符、照片等）。您可以通过设备设置选择退出分析数据采集。详情请见 [Firebase 隐私政策](https://firebase.google.com/support/privacy)。
 
 ---
 
@@ -157,7 +165,7 @@ AI 生成的效果图**供您个人非商业用途使用**（如个人欣赏、�
 
 ## 8. 未成年人使用
 
-本应用可供 **13 周岁及以上**用户使用。不满 18 周岁的未成年人应在监护人同意与指导下使用本应用并阅读本协议。对于不满 14 周岁的儿童（依中国法律属于儿童），我们在处理其人脸等敏感个人信息前会取得监护人的**单独同意**。
+本应用可供 **13 周岁及以上**用户使用。不满 18 周岁的未成年人应在监护人同意与指导下使用本应用并阅读本协议。对于不满 14 周岁的儿童（依中国法律属于儿童），监护人应当对儿童使用本应用的行为进行监督，并对上传照片等行为负责。
 
 ---
 
@@ -183,19 +191,3 @@ AI 生成的效果图**供您个人非商业用途使用**（如个人欣赏、�
 - **电子邮箱**：hongwu.lu@outlook.com
 
 我们将在收到反馈后尽快回复（通常在 7 个工作日内）。
-
----
-
-# Terms of Service (English Summary)
-
-**App**: AI Hairstyle (HairStyleApp) — **Developer**: HONGWU LU (Individual) — **Effective Date**: July 26, 2026 — **Contact**: hongwu.lu@outlook.com
-
-- **Service**: an AI hairstyle preview tool. Photos you upload are processed by a third-party AI API to generate hairstyle previews. **For entertainment and reference only** — results are AI simulations, not real styling outcomes.
-- **Pricing**: one-time paid download via the app store. No subscriptions, no in-app purchases, no ads. Payments and refunds are handled entirely by the app store.
-- **Weekly usage limit**: every generation call incurs a real per-request cost from the third-party AI API. Since the app is sold as a one-time purchase (not pay-per-use or subscription), a fair-use cap keeps the service sustainable: up to **100 generation requests per week (ISO week)**, resetting every Monday at 00:00 local time — roughly 14+ generations per day, ample for typical use. Unused quota does not roll over. Call counts are recorded only in encrypted on-device storage; no paid top-ups are offered.
-- **Your obligations**: upload only photos of yourself or with the subject's explicit authorization; no illegal, infringing, or unauthorized content; no reverse engineering, license-check bypass, quota tampering, or automated abuse.
-- **Intellectual property**: the app, its source code, UI/interface design, icons, and trademarks are protected by copyright and trademark law (all rights reserved). You may not reverse engineer, extract the source code, or copy/imitate the UI for other products. Third-party components remain owned by their respective owners under their own licenses; your photos remain yours; generated images are licensed to you for **personal, non-commercial use** only.
-- **Disclaimers**: the app is provided "as is" without warranties of result quality or uninterrupted availability; liability is capped at the purchase price you paid; local data loss from device issues or uninstallation is not recoverable.
-- **Children**: available to users aged 13 and above; minors under 18 should use it with parental consent. For children under 14 (children under Chinese law), we obtain separate parental consent before processing facial data.
-- **Sensitive data**: uploaded photos may contain facial images (sensitive personal information); by uploading you consent to their use only for generation.
-- **Changes & contact**: updates will be posted at this URL. Questions: **hongwu.lu@outlook.com**.
