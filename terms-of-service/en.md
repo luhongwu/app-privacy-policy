@@ -1,6 +1,6 @@
 # Terms of Service
 
-**App Name**: AI Hairstyle (HairStyleApp)
+**App Name**: AI Hairstyle
 
 **Developer**: HONGWU LU
 
@@ -16,11 +16,11 @@
 
 ## 1. Acceptance of Terms
 
-This Terms of Service agreement (hereinafter "this Agreement") is entered into between you and HONGWU LU (hereinafter "the Developer", "we", or "us") regarding your download, installation, and use of "AI Hairstyle (HairStyleApp)" (hereinafter "the App").
+This Terms of Service agreement (hereinafter "these Terms") is entered into between you and HONGWU LU (hereinafter "the Developer", "we", or "us") regarding your download, installation, and use of "AI Hairstyle" (hereinafter "the App").
 
-**By downloading, installing, or using the App, you acknowledge that you have read, understood, and agree to be bound by all terms of this Agreement.** If you do not agree with any provision of this Agreement, please immediately stop using and uninstall the App.
+**By downloading, installing, or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms.** If you do not agree with any provision of these Terms, please immediately stop using and uninstall the App.
 
-The App's Privacy Policy is an integral part of this Agreement and carries the same legal effect.
+The App's Privacy Policy is an integral part of these Terms and carries the same legal effect.
 
 ---
 
@@ -176,21 +176,21 @@ The App is available to users aged **13 and above**. Minors under 18 should use 
 
 ## 9. Changes and Termination
 
-- We may revise this Agreement from time to time. Revised terms will be published on this page, and the "Last Updated" date will be revised. For material changes, reasonable notice will be provided within the App;
-- Your continued use of the App after changes constitutes acceptance of the revised Agreement; if you do not agree with the changes, you should stop using and uninstall the App;
-- You may terminate this Agreement at any time by uninstalling the App; the Developer reserves the right to terminate your access to the App in the event of a material breach of this Agreement.
+- We may revise these Terms from time to time. Revised terms will be published on this page, and the "Last Updated" date will be revised. For material changes, reasonable notice will be provided within the App;
+- Your continued use of the App after changes constitutes acceptance of the revised Terms; if you do not agree with the changes, you should stop using and uninstall the App;
+- You may terminate these Terms at any time by uninstalling the App; the Developer reserves the right to terminate your access to the App in the event of a material breach of these Terms.
 
 ---
 
 ## 10. Governing Law and Dispute Resolution
 
-The formation, execution, and interpretation of this Agreement shall be governed by the laws of the Developer's jurisdiction (without regard to conflict of law rules). This provision does not exclude the application of mandatory consumer protection rules under the laws of your jurisdiction. Disputes arising from this Agreement shall first be resolved through friendly negotiation; if negotiation fails, either party may file a lawsuit with a competent people's court. If you are a consumer, you also have the right to file a lawsuit with a competent court in your jurisdiction.
+The formation, execution, and interpretation of these Terms shall be governed by the laws of the Developer's jurisdiction (without regard to conflict of law rules). This provision does not exclude the application of mandatory consumer protection rules under the laws of your jurisdiction. Disputes arising from these Terms shall first be resolved through friendly negotiation; if negotiation fails, either party may file a lawsuit with a competent people's court. If you are a consumer, you also have the right to file a lawsuit with a competent court in your jurisdiction.
 
 ---
 
 ## 11. Contact Us
 
-If you have any questions, comments, or complaints regarding this Agreement or the App, please contact:
+If you have any questions, comments, or complaints regarding these Terms or the App, please contact:
 
 - **Developer**: HONGWU LU
 - **Email**: hongwu.lu@outlook.com

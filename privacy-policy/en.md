@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**App Name**: AI Hairstyle (HairStyleApp)
+**App Name**: AI Hairstyle
 
 **Developer**: HONGWU LU
 
@@ -14,7 +14,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy applies to the mobile application "AI Hairstyle (HairStyleApp)" (hereinafter "the App"), developed and published by HONGWU LU (hereinafter "we", "us", or "the Developer"). The App is an AI hairstyle preview tool that allows users to upload local photos, select hairstyles and hair colors, and generate hairstyle preview images via a third-party AI API.
+This Privacy Policy applies to the mobile application "AI Hairstyle" (hereinafter "the App"), developed and published by HONGWU LU (hereinafter "we", "us", or "the Developer"). The App is an AI hairstyle preview tool that allows users to upload local photos, select hairstyles and hair colors, and generate hairstyle preview images via a third-party AI API.
 
 We take your privacy seriously. This policy explains what information is involved when using the App, how it is used and protected, and what rights you have. **The core design principle of this App is: collect as little personal information as possible.**
 
