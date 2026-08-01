@@ -1,10 +1,15 @@
 # 用户协议
 
 **应用名称**：AI 发型（HairStyleApp）
+
 **开发者**：HONGWU LU
+
 **生效日期**：2026 年 7 月 26 日
+
 **最后更新**：2026 年 7 月 28 日
+
 **联系邮箱**：hongwu.lu@outlook.com
+
 **版权所有**：© 2026 HONGWU LU. 保留所有权利（All rights reserved）。
 
 ---

@@ -1,9 +1,13 @@
 # Privacy Policy
 
 **App Name**: AI Hairstyle (HairStyleApp)
+
 **Developer**: HONGWU LU
+
 **Effective Date**: July 26, 2026
+
 **Last Updated**: July 28, 2026
+
 **Contact Email**: hongwu.lu@outlook.com
 
 ---
