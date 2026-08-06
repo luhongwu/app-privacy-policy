@@ -2,19 +2,17 @@
 
 **App Name**: AI Hairstyle
 
-**Developer**: HONGWU LU
+**Developer**: BoboBru
 
 **Effective Date**: July 26, 2026
 
 **Last Updated**: July 28, 2026
 
-**Contact Email**: hongwu.lu@outlook.com
-
 ---
 
 ## 1. Introduction
 
-This Privacy Policy applies to the mobile application "AI Hairstyle" (hereinafter "the App"), developed and published by HONGWU LU (hereinafter "we", "us", or "the Developer"). The App is an AI hairstyle preview tool that allows users to upload local photos, select hairstyles and hair colors, and generate hairstyle preview images via a third-party AI API.
+This Privacy Policy applies to the mobile application "AI Hairstyle" (hereinafter "the App"), developed and published by BoboBru (hereinafter "we", "us", or "the Developer"). The App is an AI hairstyle preview tool that allows users to upload local photos, select hairstyles and hair colors, and generate hairstyle preview images via a third-party AI API.
 
 We take your privacy seriously. This policy explains what information is involved when using the App, how it is used and protected, and what rights you have. **The core design principle of this App is: collect as little personal information as possible.**
 
@@ -170,7 +168,6 @@ We may update this Privacy Policy from time to time to reflect changes in App fu
 
 If you have any questions, comments, or requests regarding this Privacy Policy or the App's data processing practices, please contact us through the following channels:
 
-- **Developer**: HONGWU LU
-- **Email**: hongwu.lu@outlook.com
+- **Developer**: BoboBru
 
 We will respond as promptly as possible after receiving your feedback (typically within 7 business days).

@@ -2,21 +2,19 @@
 
 **App Name**: AI Hairstyle
 
-**Developer**: HONGWU LU
+**Developer**: BoboBru
 
 **Effective Date**: July 26, 2026
 
 **Last Updated**: July 28, 2026
 
-**Contact Email**: hongwu.lu@outlook.com
-
-**Copyright**: © 2026 HONGWU LU. All rights reserved.
+**Copyright**: © 2026 BoboBru. All rights reserved.
 
 ---
 
 ## 1. Acceptance of Terms
 
-This Terms of Service agreement (hereinafter "these Terms") is entered into between you and HONGWU LU (hereinafter "the Developer", "we", or "us") regarding your download, installation, and use of "AI Hairstyle" (hereinafter "the App").
+This Terms of Service agreement (hereinafter "these Terms") is entered into between you and BoboBru (hereinafter "the Developer", "we", or "us") regarding your download, installation, and use of "AI Hairstyle" (hereinafter "the App").
 
 **By downloading, installing, or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms.** If you do not agree with any provision of these Terms, please immediately stop using and uninstall the App.
 
@@ -190,7 +188,6 @@ The formation, execution, and interpretation of these Terms shall be governed by
 
 If you have any questions, comments, or complaints regarding these Terms or the App, please contact:
 
-- **Developer**: HONGWU LU
-- **Email**: hongwu.lu@outlook.com
+- **Developer**: BoboBru
 
 We will respond as promptly as possible after receiving your feedback (typically within 7 business days).
