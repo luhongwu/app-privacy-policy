@@ -1,6 +1,6 @@
 # Terms of Service
 
-**App Name**: AI Hairstyle
+**App Name**: BoboBru
 
 **Developer**: BoboBru
 
@@ -14,7 +14,7 @@
 
 ## 1. Acceptance of Terms
 
-This Terms of Service agreement (hereinafter "these Terms") is entered into between you and BoboBru (hereinafter "the Developer", "we", or "us") regarding your download, installation, and use of "AI Hairstyle" (hereinafter "the App").
+This Terms of Service agreement (hereinafter "these Terms") is entered into between you and BoboBru (hereinafter "the Developer", "we", or "us") regarding your download, installation, and use of "BoboBru" (hereinafter "the App").
 
 **By downloading, installing, or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms.** If you do not agree with any provision of these Terms, please immediately stop using and uninstall the App.
 
