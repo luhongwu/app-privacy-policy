@@ -4,7 +4,7 @@
 
 **Developer**: BoboBru
 
-**Effective Date**: July 26, 2026
+**Effective Date**: September 24, 2026
 
 **Last Updated**: September 24, 2026
 
