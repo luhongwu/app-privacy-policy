@@ -1,3 +1,8 @@
+---
+layout: default
+lang: en
+dir: ltr
+---
 # Privacy Policy
 
 **App Name**: BoboBru
@@ -9,6 +14,19 @@
 **Last Updated**: September 24, 2026
 
 **Copyright**: © 2026 BoboBru. All rights reserved.
+
+---
+
+> **Global Service Statement**
+>
+> BoboBru is an AI hairstyle app serving users worldwide. We are committed to providing a safe, trustworthy, and localized product experience for users in different countries and regions:
+>
+> - **Multi-country coverage**: The App is listed and provides services in multiple countries or regions around the world; you can download and use it from the app store in your country or region;
+> - **Multi-language support**: We provide a localized interface for users with different language backgrounds. We currently support **18 languages** — Simplified Chinese, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe, and Tiếng Việt — and will continue to add more; Arabic (العربية) uses right-to-left (RTL) layout;
+> - **Localized compliance**: We respect the laws and regulations of your location and process your personal information in accordance with applicable data-protection laws (including but not limited to China's Personal Information Protection Law, the EU GDPR / UK GDPR, and California's CCPA/CPRA) (see the cross-border transfer notes in Section 7);
+> - **Consistent privacy commitment**: Wherever you are, we adhere to the principle of "privacy first and data minimization", safeguarding your rights to be informed, to choose, and to control.
+>
+> If you have any questions about localized services, language support, or cross-border data processing, please contact us at any time using the details in Section 13.
 
 ---
 

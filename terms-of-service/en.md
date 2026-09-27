@@ -1,3 +1,8 @@
+---
+layout: default
+lang: en
+dir: ltr
+---
 # Terms of Service
 
 **App Name**: BoboBru
@@ -9,6 +14,19 @@
 **Last Updated**: September 24, 2026
 
 **Copyright**: © 2026 BoboBru. All rights reserved.
+
+---
+
+> **Global Service Statement**
+>
+> BoboBru is an AI hairstyle app serving users worldwide. We are committed to providing a safe, trustworthy, and localized product experience for users in different countries and regions:
+>
+> - **Multi-country coverage**: The App is listed and provides services in multiple countries or regions around the world; you can download and use it from the app store in your country or region. Prices, taxes, and available features may vary by country or region (see Section 2.3);
+> - **Multi-language support**: We provide a localized interface for users with different language backgrounds. We currently support **18 languages** — Simplified Chinese, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe, and Tiếng Việt — and will continue to add more; Arabic (العربية) uses right-to-left (RTL) layout;
+> - **Localized compliance**: We respect the laws and regulations of your location and provide the App and services in accordance with applicable consumer-protection and data-protection laws (including but not limited to those of China, the EU GDPR / UK GDPR, and California's CCPA/CPRA) (see Section 10, Governing Law and Dispute Resolution);
+> - **Consistent user rights**: Wherever you are, we adhere to the principles of fairness, transparency, and respect for user rights, so that your lawful rights are not affected by geography.
+>
+> If you have any questions about localized services, language support, or the applicable rules, please contact us at any time using the details in Section 11.
 
 ---
 
