@@ -17,16 +17,16 @@ dir: ltr
 
 ---
 
-> **Oświadczenie o usłudze globalnej (Global Service Statement)**
+> **Transgraniczne przetwarzanie danych i Twoje prawa (podsumowanie wyjaśniające)**
 >
-> BoboBru to aplikacja do fryzur AI, która obsługuje użytkowników na całym świecie. Zobowiązujemy się zapewniać użytkownikom w różnych krajach i regionach bezpieczne, godne zaufania i zlokalizowane doświadczenie produktu:
+> Niniejsza Sekcja stanowi podsumowanie wyjaśniające, udostępnione wyłącznie po to, aby pomóc Ci szybko zrozumieć najważniejsze punkty niniejszej Polityki. **Nie uzupełnia ona ani nie zmienia niniejszej Polityki; wiążące postanowienia niniejszej Polityki mają pierwszeństwo przed niniejszą Sekcją**.
 >
-> - **Obsługiwane kraje**: Aplikacja jest dostępna i świadczy usługi w wielu krajach lub regionach na całym świecie; możesz ją pobrać i używać ze sklepu z aplikacjami w swoim kraju lub regionie;
-> - **Wielojęzyczność**: Zapewniamy zlokalizowany interfejs dla użytkowników o różnym tle językowym. Obecnie obsługujemy **18 języków** — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe i Tiếng Việt — i będziemy je nadal rozszerzać; język arabski (العربية) korzysta z układu od prawej do lewej (RTL);
-> - **Zgodność z przepisami lokalnymi**: Szanujemy przepisy prawne obowiązujące w Twojej lokalizacji i przetwarzamy Twoje dane osobowe zgodnie z właściwymi przepisami o ochronie danych (w tym między innymi z chińską Ustawą o ochronie danych osobowych, unijnym RODO / brytyjskim RODO oraz kalifornijskim CCPA/CPRA) (zob. uwagi dotyczące transferów transgranicznych w Sekcji 7);
-> - **Spójne zobowiązanie dotyczące prywatności**: Gdziekolwiek jesteś, stosujemy zasadę „prywatność przede wszystkim i minimalizacja danych", chroniąc Twoje prawo do informacji, wyboru i kontroli.
+> - **Brak rejestracji, brak identyfikacji**: Aplikacja nie wykorzystuje numerów telefonów, adresów e-mail, imion i nazwisk, dokładnej lokalizacji, kontaktów ani identyfikatorów reklamowych, ani żadnych innych informacji identyfikujących; wszystkie funkcje można wykorzystywać anonimowo (Sekcje 2 i 11)
+> - **Zdjęcia są wykorzystywane wyłącznie do bieżącego generowania**: Zdjęcia, które dobrowolnie przesyłasz, są przetwarzane tylko tak długo, jak jest to niezbędne do ukończenia bieżącego generowania, i nie są przechowywane w innych celach; są one przesyłane za pośrednictwem szyfrowanego połączenia HTTPS / TLS; dostawca AI oświadcza, że zostają one automatycznie usunięte w ciągu 24 godzin. **Twoje zdjęcia nie są przez nas wykorzystywane do reklam, tworzenia profili użytkowników ani trenowania modeli AI** (Sekcje 3, 7 i 9)
+> - **Równoważne zabezpieczenia przy przetwarzaniu transgranicznym**: Twoje zdjęcia oraz niezbędne zapisy mogą być przekazywane do przetwarzania poza Twój kraj lub region; w zależności od faktycznego wdrożenia stosujemy takie zabezpieczenia jak minimalizacja danych, szyfrowanie HTTPS / TLS, umowa standardowa przewidziana w chińskich przepisach o umowie standardowej dla eksportu danych osobowych oraz unijne standardowe klauzule umowne (SCC) (Sekcja 7)
+> - **Zachowujesz kontrolę**: Możesz w każdej chwili usunąć swoją lokalną historię, odwołać udzielone uprawnienia w ustawieniach systemowych i odinstalować Aplikację, aby usunąć wszystkie dane lokalne; możesz także wycofać swoją odrębną zgodę lub zażądać usunięcia zapisów po stronie serwera za pośrednictwem adresu e-mail podanego w Sekcji 13 (Sekcje 9 i 11)
 >
-> Jeśli masz pytania dotyczące zlokalizowanych usług, obsługi językowej lub transgranicznego przetwarzania danych, skontaktuj się z nami w dowolnym momencie, korzystając z danych podanych w Sekcji 13.
+> Powyższe zobowiązania obowiązują jednakowo niezależnie od tego, w jakim kraju lub regionie się znajdujesz. Niniejsza Polityka jest udostępniana w wielu językach; wersje językowe i ich moc obowiązująca zostały opisane w Sekcji 14. Nasze zobowiązania wobec użytkowników na całym świecie opisano także w Oświadczeniu o usłudze globalnej w Warunkach korzystania z usługi. Jeśli masz pytania dotyczące transgranicznego przetwarzania danych, skontaktuj się z nami, korzystając z danych podanych w Sekcji 13.
 
 ---
 
@@ -299,4 +299,4 @@ Jeśli jesteś w Unii Europejskiej, możesz skontaktować się z nami bezpośred
 
 ## 14. Wersja językowa i moc obowiązująca
 
-Niniejsza Polityka podlega tekstowi w języku chińskim i jest wyłącznie na jego podstawie interpretowana; tłumaczenia na inne języki są udostępniane wyłącznie dla wygody czytelnika i **nie stanowią podstawy interpretacji ani nie tworzą żadnej samodzielnej mocy prawnej ani żadnych praw lub obowiązków**. W przypadku niezgodności między niniejszą Polityką a Warunkami korzystania z usługi w zakresie ochrony danych osobowych **niniejsza Polityka ma pierwszeństwo**; w pozostałych kwestiach pierwszeństwo mają Warunki korzystania z usługi.
+Niniejsza Polityka jest udostępniana w wielu językach i wszystkie wersje językowe są jednakowo autentyczne. Jeśli między poszczególnymi wersjami językowymi pojawi się niejednoznaczność, dokonamy jej wykładni w dobrej wierze, z uwzględnieniem celu i kontekstu niniejszej Polityki oraz w powiązaniu z właściwym prawem bezwzględnie obowiązującym. W przypadku niezgodności między niniejszą Polityką a Warunkami korzystania z usługi w zakresie ochrony danych osobowych **pierwszeństwo ma niniejsza Polityka**; w pozostałych kwestiach pierwszeństwo mają Warunki korzystania z usługi.

@@ -17,16 +17,16 @@ dir: ltr
 
 ---
 
-> **Tuyên bố về dịch vụ toàn cầu (Global Service Statement)**
+> **Xử lý dữ liệu qua biên giới và quyền của bạn (Bản tóm tắt giải thích)**
 >
-> BoboBru là một ứng dụng kiểu tóc AI phục vụ người dùng trên toàn thế giới. Chúng tôi cam kết mang đến trải nghiệm sản phẩm an toàn, đáng tin cậy và được bản địa hóa cho người dùng ở các quốc gia và khu vực khác nhau:
+> Mục này là bản tóm tắt giải thích, chỉ nhằm giúp bạn nhanh chóng nắm bắt các điểm chính của Chính sách này. Mục này **không bổ sung hay sửa đổi Chính sách này; các quy định có hiệu lực của Chính sách này được ưu tiên áp dụng so với mục này**.
 >
-> - **Phủ sóng nhiều quốc gia**: Ứng dụng được niêm yết và cung cấp dịch vụ tại nhiều quốc gia hoặc khu vực trên thế giới; bạn có thể tải xuống và sử dụng từ kho ứng dụng tại quốc gia hoặc khu vực của mình;
-> - **Hỗ trợ đa ngôn ngữ**: Chúng tôi cung cấp giao diện được bản địa hóa cho người dùng có nền tảng ngôn ngữ khác nhau. Hiện chúng tôi hỗ trợ **18 ngôn ngữ** — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe và Tiếng Việt — và sẽ tiếp tục bổ sung; tiếng Ả Rập (العربية) sử dụng bố cục từ phải sang trái (RTL);
-> - **Tuân thủ theo địa phương**: Chúng tôi tôn trọng pháp luật và quy định tại địa phương của bạn và xử lý thông tin cá nhân của bạn theo luật bảo vệ dữ liệu hiện hành (bao gồm nhưng không giới hạn ở Luật Bảo vệ Thông tin Cá nhân của Trung Quốc, GDPR của EU / GDPR của Anh và CCPA/CPRA của California) (xem các lưu ý về chuyển dữ liệu qua biên giới tại Mục 7);
-> - **Cam kết nhất quán về quyền riêng tư**: Dù bạn ở đâu, chúng tôi tuân thủ nguyên tắc "quyền riêng tư là trên hết và tối thiểu hóa dữ liệu", bảo vệ quyền được biết, được lựa chọn và được kiểm soát của bạn.
+> - **Không đăng ký, không nhận dạng**: Ứng dụng không sử dụng số điện thoại, địa chỉ email, tên, vị trí chính xác, danh bạ, mã nhận dạng quảng cáo hay bất kỳ thông tin nhận dạng nào khác; tất cả các tính năng đều có thể sử dụng ẩn danh (Mục 2 và Mục 11)
+> - **Ảnh chỉ được sử dụng cho lần tạo hiện tại**: Những bức ảnh bạn tự nguyện tải lên chỉ được xử lý trong thời gian cần thiết để hoàn thành lần tạo hiện tại và không được lưu giữ cho mục đích nào khác; chúng được truyền qua kết nối HTTPS / TLS được mã hóa; nhà cung cấp AI nêu rằng chúng sẽ tự động bị xóa trong vòng 24 giờ. **Chúng tôi không sử dụng ảnh của bạn cho mục đích quảng cáo, lập hồ sơ người dùng hay huấn luyện mô hình AI** (Mục 3, Mục 7 và Mục 9)
+> - **Các biện pháp bảo vệ tương đương cho việc xử lý qua biên giới**: Ảnh và các bản ghi cần thiết của bạn có thể được chuyển ra ngoài quốc gia hoặc khu vực của bạn để xử lý; tùy thuộc vào việc triển khai thực tế, chúng tôi áp dụng các biện pháp bảo vệ như tối thiểu hóa dữ liệu, mã hóa HTTPS / TLS, hợp đồng tiêu chuẩn được quy định theo Biện pháp Hợp đồng tiêu chuẩn cho việc xuất thông tin cá nhân của Trung Quốc, và các Điều khoản hợp đồng tiêu chuẩn (SCC) của EU (Mục 7)
+> - **Bạn vẫn nắm quyền kiểm soát**: Bạn có thể xóa lịch sử cục bộ bất kỳ lúc nào, thu hồi các quyền đã cấp trong cài đặt hệ thống và gỡ cài đặt Ứng dụng để xóa toàn bộ dữ liệu cục bộ; bạn cũng có thể rút lại sự đồng ý riêng biệt hoặc yêu cầu xóa các bản ghi phía máy chủ qua địa chỉ email tại Mục 13 (Mục 9 và Mục 11)
 >
-> Nếu bạn có câu hỏi về dịch vụ bản địa hóa, hỗ trợ ngôn ngữ hoặc xử lý dữ liệu qua biên giới, vui lòng liên hệ với chúng tôi bất kỳ lúc nào bằng thông tin chi tiết tại Mục 13.
+> Các cam kết nêu trên được áp dụng nhất quán bất kể bạn đang ở quốc gia hay khu vực nào. Chính sách này được cung cấp bằng nhiều ngôn ngữ; xem Mục 14 về các phiên bản ngôn ngữ và hiệu lực của chúng. Đối với các cam kết dịch vụ của chúng tôi dành cho người dùng trên toàn thế giới, vui lòng xem thêm Tuyên bố về dịch vụ toàn cầu trong Điều khoản dịch vụ. Nếu bạn có câu hỏi về việc xử lý dữ liệu qua biên giới, vui lòng liên hệ với chúng tôi bằng thông tin chi tiết tại Mục 13.
 
 ---
 
@@ -299,4 +299,4 @@ Nếu bạn ở Liên minh châu Âu, bạn có thể liên hệ trực tiếp v
 
 ## 14. Phiên Bản Ngôn Ngữ Và Hiệu Lực
 
-Chính sách này được điều chỉnh bởi và chỉ được giải thích trên cơ sở văn bản tiếng Trung; các bản dịch sang ngôn ngữ khác chỉ được cung cấp để thuận tiện cho việc đọc và **không cấu thành căn cứ để giải thích, cũng như không tạo ra bất kỳ hiệu lực pháp lý độc lập hay bất kỳ quyền hoặc nghĩa vụ nào**. Trong trường hợp Chính sách này và Điều khoản dịch vụ không nhất quán về các vấn đề bảo vệ thông tin cá nhân, **Chính sách này được ưu tiên áp dụng**; đối với các vấn đề khác, Điều khoản dịch vụ được ưu tiên áp dụng.
+Chính sách này được cung cấp bằng nhiều ngôn ngữ và tất cả các phiên bản ngôn ngữ đều có giá trị xác thực như nhau. Nếu có bất kỳ điểm nào chưa rõ ràng giữa các văn bản ngôn ngữ khác nhau, chúng tôi sẽ giải thích một cách thiện chí dựa trên mục đích và bối cảnh của Chính sách này, kết hợp với pháp luật bắt buộc hiện hành. Trong trường hợp Chính sách này và Điều khoản dịch vụ không nhất quán về các vấn đề bảo vệ thông tin cá nhân, **Chính sách này được ưu tiên áp dụng**; đối với các vấn đề khác, Điều khoản dịch vụ được ưu tiên áp dụng.

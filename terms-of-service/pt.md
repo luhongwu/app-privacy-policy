@@ -19,14 +19,14 @@ dir: ltr
 
 > **Declaração de Serviço Global (Global Service Statement)**
 >
-> O BoboBru é um aplicativo de troca de penteado com IA para usuários de todo o mundo. Comprometemo-nos a oferecer uma experiência de produto segura, confiável e localizada a usuários de diferentes países e regiões:
+> O BoboBru é um aplicativo de penteados com IA que atende usuários de todo o mundo. Esta Declaração descreve os nossos compromissos básicos no atendimento a usuários em todo o mundo; **não complementa nem modifica estes Termos; as disposições vigentes destes Termos prevalecem sobre esta Declaração**.
 >
-> - **Cobertura multinacional**: o App está disponível e presta serviços em vários países ou regiões do mundo; você pode baixá-lo e usá-lo na loja de aplicativos do seu país ou região. Preços, impostos e recursos disponíveis podem variar conforme o país ou a região (ver seção 2.3);
-> - **Suporte multilíngue**: oferecemos uma interface localizada para usuários de diferentes idiomas; atualmente oferecemos suporte a **18 idiomas** — chinês simplificado, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe e Tiếng Việt — e continuaremos a adicionar mais; o árabe (العربية) usa layout da direita para a esquerda (RTL);
-> - **Conformidade local**: respeitamos as leis e os regulamentos da sua localidade e fornecemos o App e os serviços de acordo com as leis aplicáveis de proteção ao consumidor e de proteção de dados (incluindo, entre outras, as da China, o RGPD da UE / o RGPD do Reino Unido e a CCPA/CPRA da Califórnia) (ver seção 10, Lei aplicável e resolução de disputas);
-> - **Direitos do usuário consistentes**: onde quer que você esteja, mantemos os princípios de equidade, transparência e respeito aos direitos do usuário, para que seus direitos legítimos não sejam afetados pela geografia.
+> - **Cobertura em vários países/regiões**: o App está listado e presta serviços por meio das lojas de aplicativos de vários países/regiões; você pode baixá-lo e usá-lo no seu país ou região; **preços, impostos e recursos disponíveis podem variar conforme o país ou a região** (ver seção 2.3).
+> - **Suporte multilíngue**: a interface do App e estes Termos são fornecidos em vários idiomas, incluindo o chinês tradicional, bem como idiomas que usam layout da direita para a esquerda (RTL), como o árabe e o persa; **os idiomas disponíveis são os listados em "Configurações → Idioma" no App**, e continuaremos a ampliar os idiomas com suporte.
+> - **Conformidade localizada**: respeitamos as leis e os regulamentos da sua localidade e fornecemos o App e os serviços de acordo com as leis aplicáveis de proteção ao consumidor e de proteção de dados (incluindo, entre outras, a Lei de Proteção das Informações Pessoais da China, o RGPD da UE / o RGPD do Reino Unido e o CCPA/CPRA da Califórnia) (ver seção 10); **estes Termos não excluem a aplicação das normas imperativas (irrenunciáveis) de proteção ao consumidor da lei da sua localidade**.
+> - **Direitos do usuário consistentes**: onde quer que você esteja, aplicamos os princípios de equidade, transparência e respeito aos direitos dos usuários: compromissos uniformes de tratamento de dados (as fotos são usadas apenas para a geração atual, não são usadas para publicidade nem para treinar modelos de IA, e as transferências transfronteiriças são protegidas por criptografia e contratos-padrão — ver a Política de Privacidade), canais uniformes para exercer os seus direitos e um canal de contato uniforme (seção 11).
 >
-> Se você tiver alguma dúvida sobre serviços localizados, suporte a idiomas ou as regras aplicáveis, entre em contato conosco a qualquer momento pelos dados de contato da seção 11.
+> Se você tiver dúvidas sobre serviços localizados, suporte a idiomas, tratamento transfronteiriço de dados ou as regras aplicáveis, entre em contato conosco a qualquer momento pelos dados da seção 11.
 
 ---
 
@@ -52,7 +52,7 @@ O App é uma **ferramenta de pré-visualização de penteados com IA**. Você en
 - Mais de 60 penteados (categorias masculina/feminina) e 22 cores de cabelo para escolher;
 - Geração assíncrona com IA de imagens de pré-visualização de penteados;
 - Salvar os resultados gerados na fototeca do sistema e gerenciar registros de histórico;
-- Interface bilíngue chinês/inglês, modo escuro/claro e várias cores de tema.
+- Interface multilíngue (incluindo layout da direita para a esquerda [RTL]), modo escuro/claro e várias cores de tema.
 
 ### 2.2 Natureza do serviço
 
@@ -302,7 +302,7 @@ A formação, a execução e a interpretação destes Termos serão regidas pela
 
 **Renúncia a ações coletivas (apenas onde a lei o permitir)**: na medida permitida pela lei aplicável (incluindo jurisdições como os Estados Unidos que reconhecem tais renúncias), ambas as partes concordam em resolver disputas individualmente e em não ajuizar nem participar de qualquer procedimento como representante, em ação coletiva ou consolidada. **Nas jurisdições onde tal renúncia não é permitida (por exemplo, a UE, o Reino Unido e a China), este parágrafo não se aplica, e qualquer recurso coletivo ou de grupo disponível a você por lei não é afetado.**
 
-Estes Termos são regidos pelo texto em chinês e serão interpretados exclusivamente com base nele; a tradução para outros idiomas é fornecida apenas para facilitar a leitura e **não constitui base de interpretação nem cria qualquer efeito jurídico independente ou quaisquer direitos ou obrigações**.
+Estes Termos são fornecidos em vários idiomas e todas as versões linguísticas são igualmente autênticas. Se surgir alguma ambiguidade entre os diferentes textos linguísticos, nós os interpretaremos de boa-fé à luz da finalidade e do contexto destes Termos e em conjunto com o direito imperativo aplicável.
 
 ---
 

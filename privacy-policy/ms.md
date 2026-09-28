@@ -12,16 +12,16 @@
 
 ---
 
-> **Kenyataan Perkhidmatan Global (Global Service Statement)**
+> **Pemprosesan Data Merentas Sempadan dan Hak Anda (Ringkasan Penjelasan)**
 >
-> BoboBru ialah aplikasi tukar gaya rambut AI untuk pengguna di seluruh dunia. Kami komited untuk menyediakan pengalaman produk yang selamat, boleh dipercayai dan setempat untuk pengguna di pelbagai negara dan wilayah:
+> Seksyen ini ialah ringkasan penjelasan yang disediakan semata-mata untuk membantu anda memahami dengan cepat perkara-perkara utama Dasar ini. Ia **tidak menambah atau mengubah Dasar ini; peruntukan operasional Dasar ini mengatasi seksyen ini**.
 >
-> - **Liputan Pelbagai Negara**: Aplikasi ini diterbitkan dan disediakan di banyak negara dan wilayah di seluruh dunia; anda boleh memuat turun dan menggunakannya dari gedung aplikasi di negara atau wilayah anda;
-> - **Sokongan Pelbagai Bahasa**: Kami menyediakan antara muka setempat untuk pengguna dengan latar belakang bahasa yang berbeza, dan pada masa ini menyokong **简体中文、English、Español、Português、العربية、日本語、한국어、Deutsch、Français、हिन्दी、Bahasa Indonesia、Italiano、Nederlands、Polski、Русский、ไทย、Türkçe、Tiếng Việt、繁體中文、فارسی、Bahasa Melayu** seramai 21 bahasa, dan akan terus mengembangkan lebih banyak bahasa; bahasa Arab (العربية) menggunakan susun atur kanan-ke-kiri (RTL);
-> - **Pematuhan Setempat**: Kami menghormati undang-undang dan peraturan di kawasan anda, dan memproses maklumat peribadi anda mengikut undang-undang perlindungan data yang terpakai (termasuk, tanpa had, "Akta Perlindungan Maklumat Peribadi" China, GDPR EU / UK GDPR UK, CCPA/CPRA California) (lihat Seksyen 7 berkenaan pemindahan merentas sempadan);
-> - **Komitmen Privasi yang Konsisten**: Tidak kira di mana anda berada, kami menegakkan prinsip pemprosesan data "privasi didahulukan, minimum diperlukan" untuk melindungi hak makluman, pilihan dan kawalan anda.
+> - **Tiada pendaftaran, tiada pengenalan**: Aplikasi tidak menggunakan nombor telefon, alamat e-mel, nama, lokasi tepat, kenalan, atau ID pengiklanan, atau maklumat pengenalan lain; semua fungsi boleh digunakan secara tanpa nama (Seksyen 2 dan 11)
+> - **Foto hanya digunakan untuk penjanaan semasa**: Foto yang anda muat naik secara sukarela diproses hanya untuk tempoh yang diperlukan bagi menyelesaikan penjanaan semasa dan tidak disimpan untuk tujuan lain; ia dihantar melalui sambungan HTTPS / TLS yang disulitkan; penyedia AI menyatakan bahawa ia dipadam secara automatik dalam tempoh 24 jam. **Foto anda tidak kami gunakan untuk pengiklanan, pemprofilan pengguna, atau latihan model AI** (Seksyen 3, 7 dan 9)
+> - **Perlindungan setara untuk pemprosesan merentas sempadan**: Foto dan rekod yang diperlukan anda boleh dipindahkan ke luar negara atau wilayah anda untuk diproses; bergantung pada pelaksanaan sebenar, kami menggunakan perlindungan seperti pengurangan data (data minimization), penyulitan HTTPS / TLS, kontrak standard yang disediakan di bawah Measures for the Standard Contract for the Export of Personal Information China, dan Klausa Kontrak Standard (SCC) EU (Seksyen 7)
+> - **Anda kekal mengawal**: Anda boleh memadam sejarah setempat anda pada bila-bila masa, menarik balik kebenaran yang diberikan dalam tetapan sistem, dan menyahpasang Aplikasi untuk memadam semua data setempat; anda juga boleh menarik balik persetujuan berasingan anda atau meminta pemadaman rekod di sisi pelayan melalui alamat e-mel dalam Seksyen 13 (Seksyen 9 dan 11)
 >
-> Jika anda mempunyai sebarang pertanyaan tentang perkhidmatan setempat, sokongan bahasa atau pemprosesan data merentas sempadan, sila hubungi kami melalui cara yang dinyatakan dalam Seksyen 13 pada bila-bila masa.
+> Komitmen di atas terpakai secara konsisten tidak kira di negara atau wilayah mana anda berada. Dasar ini disediakan dalam pelbagai bahasa; lihat Seksyen 14 untuk versi bahasa dan kuasanya. Untuk komitmen perkhidmatan kami kepada pengguna di seluruh dunia, sila rujuk juga Kenyataan Perkhidmatan Global dalam Terma Perkhidmatan. Jika anda mempunyai sebarang pertanyaan tentang pemprosesan data merentas sempadan, sila hubungi kami menggunakan butiran dalam Seksyen 13.
 
 ---
 
@@ -294,4 +294,4 @@ Jika anda di EU, anda boleh menghubungi kami secara terus melalui e-mel di atas 
 
 ## 14. Versi Bahasa dan Kuasa
 
-Dasar ini hanya berasaskan teks Cina dan ditafsir mengikutnya; terjemahan Inggeris hanya untuk kemudahan bacaan, **tidak membentuk asas tafsiran dan tidak mewujudkan kewajipan atau hak undang-undang bebas.** Jika terdapat ketidakselarasan antara Dasar ini dan Terma Perkhidmatan mengenai perlindungan maklumat peribadi, **Dasar ini diguna pakai**; bagi perkara lain, Terma Perkhidmatan diguna pakai.
+Dasar ini disediakan dalam pelbagai bahasa, dan semua versi bahasa adalah sama-sama sahih. Jika timbul sebarang kekaburan antara teks bahasa yang berbeza, kami akan mentafsirkannya dengan niat baik berdasarkan tujuan dan konteks Dasar ini serta bersempena dengan undang-undang mandatori yang terpakai. Sekiranya Dasar ini dan Terma Perkhidmatan tidak selaras dalam perkara perlindungan maklumat peribadi, **Dasar ini mengatasi**; dalam perkara lain, Terma Perkhidmatan mengatasi.

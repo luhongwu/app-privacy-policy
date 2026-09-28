@@ -19,14 +19,14 @@ dir: ltr
 
 > **Erklärung zum weltweiten Dienst (Global Service Statement)**
 >
-> BoboBru ist eine KI-App zum Wechseln der Frisur für Nutzer auf der ganzen Welt. Wir verpflichten uns, Nutzern in unterschiedlichen Ländern und Regionen eine sichere, vertrauenswürdige und lokalisierte Produkterfahrung zu bieten:
+> BoboBru ist eine KI-App zum Wechseln der Frisur, die Nutzer weltweit bedient. Diese Erklärung beschreibt unsere grundlegenden Zusagen bei der Betreuung von Nutzern weltweit; sie **ergänzt oder ändert diese Bedingungen nicht; die verbindlichen Bestimmungen dieser Bedingungen gehen dieser Erklärung vor**.
 >
-> - **Abdeckung mehrerer Länder**: Die App ist in mehreren Ländern bzw. Regionen weltweit gelistet und verfügbar; Sie können sie im App Store Ihres Landes bzw. Ihrer Region herunterladen und nutzen. Preise, Steuern und verfügbare Funktionen können je nach Land oder Region abweichen (siehe Abschnitt 2.3);
-> - **Mehrsprachige Unterstützung**: Wir stellen Nutzern mit unterschiedlichem Sprachhintergrund eine lokalisierte Oberfläche bereit; derzeit werden **18 Sprachen** unterstützt — vereinfachtes Chinesisch, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe und Tiếng Việt — und wir werden weitere hinzufügen; Arabisch (العربية) verwendet ein von rechts nach links laufendes Layout (RTL);
-> - **Lokale Konformität**: Wir achten die Gesetze und Vorschriften an Ihrem Standort und stellen die App und die Dienste nach den geltenden Verbraucherschutz- und Datenschutzgesetzen bereit (darunter unter anderem jene Chinas, der EU-DSGVO / der britischen UK-DSGVO und des kalifornischen CCPA/CPRA) (siehe Abschnitt 10, Anwendbares Recht und Streitbeilegung);
-> - **Konsequente Nutzerrechte**: Wo auch immer Sie sich befinden, halten wir an den Grundsätzen von Fairness, Transparenz und Achtung der Nutzerrechte fest, damit Ihre berechtigten Rechte nicht durch den Standort beeinträchtigt werden.
+> - **Abdeckung mehrerer Länder/Regionen**: Die App ist in App-Stores mehrerer Länder bzw. Regionen gelistet und erbringt dort ihre Dienste; Sie können sie in Ihrem Land bzw. Ihrer Region herunterladen und nutzen; **Preise, Steuern und verfügbare Funktionen können je nach Land oder Region abweichen** (siehe Abschnitt 2.3).
+> - **Mehrsprachige Unterstützung**: Die App-Oberfläche und diese Bedingungen werden in mehreren Sprachen bereitgestellt, darunter traditionelles Chinesisch sowie Sprachen mit einem von rechts nach links laufenden Layout (RTL) wie Arabisch und Persisch; **welche Sprachen verfügbar sind, ergibt sich aus der Auflistung unter „Einstellungen → Sprache“ in der App**, und wir werden die unterstützten Sprachen weiter ausbauen.
+> - **Lokale Konformität**: Wir achten die Gesetze und Vorschriften an Ihrem Standort und stellen die App und die Dienste nach den geltenden Verbraucherschutz- und Datenschutzgesetzen bereit (darunter unter anderem das chinesische Gesetz zum Schutz personenbezogener Daten, die EU-DSGVO / die britische UK-DSGVO und das kalifornische CCPA/CPRA) (siehe Abschnitt 10); **diese Bedingungen schließen die Anwendung zwingender (nicht abdingbarer) Verbraucherschutzvorschriften des Rechts an Ihrem Standort nicht aus**.
+> - **Konsequente Nutzerrechte**: Wo auch immer Sie sich befinden, halten wir an den Grundsätzen von Fairness, Transparenz und Achtung der Nutzerrechte fest: einheitliche Zusagen zur Datenverarbeitung (Fotos werden nur für die jeweils aktuelle Generierung verwendet, nicht für Werbung und nicht für das Training von KI-Modellen, und grenzüberschreitende Übermittlungen sind durch Verschlüsselung und Standardverträge geschützt — siehe die Datenschutzrichtlinie), einheitliche Wege zur Ausübung Ihrer Rechte und ein einheitlicher Kontaktweg (Abschnitt 11).
 >
-> Wenn Sie Fragen zu lokalisierten Diensten, zur Sprachunterstützung oder zu den geltenden Regeln haben, kontaktieren Sie uns jederzeit über die in Abschnitt 11 genannten Kontaktdaten.
+> Wenn Sie Fragen zu lokalisierten Diensten, zur Sprachunterstützung, zur grenzüberschreitenden Datenverarbeitung oder zu den geltenden Regeln haben, kontaktieren Sie uns jederzeit über die in Abschnitt 11 genannten Kontaktdaten.
 
 ---
 
@@ -52,7 +52,7 @@ Die App ist ein **KI-Werkzeug zur Frisurenvorschau**. Sie laden Ihr Foto hoch, w
 - Über 60 Frisuren (Kategorien männlich/weiblich) und 22 Haarfarben zur Auswahl;
 - Asynchrone KI-Generierung von Frisurenvorschaubildern;
 - Speichern erzeugter Ergebnisse in der System-Fotomediathek und Verwalten von Verlaufsdaten;
-- Zweisprachige Oberfläche Chinesisch/Englisch, Dunkel-/Hellmodus und mehrere Designfarben.
+- Mehrsprachige Oberfläche (einschließlich eines von rechts nach links laufenden Layouts (RTL)), Dunkel-/Hellmodus und mehrere Designfarben.
 
 ### 2.2 Art des Dienstes
 
@@ -302,7 +302,7 @@ Abschluss, Durchführung und Auslegung dieser Bedingungen unterliegen den Gesetz
 
 **Verzicht auf Sammelklagen (nur soweit gesetzlich zulässig)**: Im gesetzlich zulässigen Umfang (darunter Jurisdiktionen wie die Vereinigten Staaten, die solche Verzichte anerkennen) stimmen beide Parteien zu, Streitigkeiten individuell beizulegen und kein Verfahren als Vertreter, als Sammelklage oder in zusammengefasster Form zu erheben oder daran teilzunehmen. **In Jurisdiktionen, in denen ein solcher Verzicht nicht zulässig ist (beispielsweise EU, Vereinigtes Königreich und China), findet dieser Absatz keine Anwendung, und gesetzlich verfügbare kollektive oder gruppenbezogene Rechtsbehelfe bleiben unberührt.**
 
-Diese Bedingungen unterliegen dem chinesischen Text und sind ausschließlich auf dessen Grundlage auszulegen; die Übersetzung in andere Sprachen dient ausschließlich der Lesefreundlichkeit und **stellt weder eine Auslegungsgrundlage dar noch begründet sie eine eigenständige Rechtswirkung oder irgendwelche Rechte oder Pflichten**.
+Diese Bedingungen werden in mehreren Sprachen bereitgestellt, und alle Sprachfassungen sind gleichermaßen maßgeblich. Ergibt sich zwischen den verschiedenen Sprachfassungen eine Unklarheit, werden wir sie nach Treu und Glauben im Hinblick auf Zweck und Zusammenhang dieser Bedingungen und in Verbindung mit dem anwendbaren zwingenden Recht auslegen.
 
 ---
 

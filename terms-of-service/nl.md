@@ -19,14 +19,14 @@ dir: ltr
 
 > **Verklaring over wereldwijde dienstverlening (Global Service Statement)**
 >
-> BoboBru is een AI-kapselapp die gebruikers wereldwijd bedient. Wij streven ernaar gebruikers in verschillende landen en regio's een veilige, betrouwbare en gelokaliseerde productervaring te bieden:
+> BoboBru is een AI-kapselapp die gebruikers wereldwijd bedient. Deze Verklaring beschrijft onze basisverplichtingen bij het bedienen van gebruikers wereldwijd; zij **vult deze Voorwaarden niet aan en wijzigt deze Voorwaarden niet; de bepalende bepalingen van deze Voorwaarden gaan boven deze Verklaring**.
 >
-> - **Dekking in meerdere landen**: De app wordt in meerdere landen of regio's wereldwijd aangeboden en levert daar diensten; u kunt de app downloaden en gebruiken via de app store in uw land of uw regio. Prijzen, belastingen en beschikbare functies kunnen per land of regio verschillen (zie Paragraaf 2.3);
-> - **Ondersteuning voor meerdere talen**: Wij bieden een gelokaliseerde interface voor gebruikers met een verschillende taalachtergrond. Wij ondersteunen momenteel **18 talen** — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe en Tiếng Việt — en blijven deze uitbreiden; het Arabisch (العربية) gebruikt een lay-out van rechts naar links (RTL);
-> - **Gelokaliseerde naleving**: Wij respecteren de wet- en regelgeving van uw locatie en bieden de App en de diensten aan in overeenstemming met de toepasselijke wetgeving inzake consumentenbescherming en gegevensbescherming (waaronder, maar niet beperkt tot, die van China, de EU-GDPR / de Britse GDPR en de CCPA/CPRA van Californië) (zie Paragraaf 10, Toepasselijk recht en geschillenbeslechting);
-> - **Consistente gebruikersrechten**: Waar u zich ook bevindt, wij houden vast aan de beginselen van billijkheid, transparantie en eerbiediging van gebruikersrechten, zodat uw wettelijke rechten niet door geografie worden beïnvloed.
+> - **Dekking in meerdere landen/regio's**: De App wordt aangeboden in app stores in meerdere landen of regio's en levert daar diensten; u kunt de App downloaden en gebruiken in uw land of uw regio; **prijzen, belastingen en beschikbare functies kunnen per land of regio verschillen** (zie Paragraaf 2.3).
+> - **Ondersteuning voor meerdere talen**: De interface van de App en deze Voorwaarden worden in meerdere talen aangeboden, waaronder traditioneel Chinees en talen met een lay-out van rechts naar links (RTL) zoals het Arabisch en het Perzisch; **de beschikbare talen zijn de talen die worden vermeld onder "Instellingen → Taal" in de App**, en wij blijven het aantal ondersteunde talen uitbreiden.
+> - **Gelokaliseerde naleving**: Wij respecteren de wet- en regelgeving van uw locatie en bieden de App en de diensten aan in overeenstemming met de toepasselijke wetgeving inzake consumentenbescherming en gegevensbescherming (waaronder, maar niet beperkt tot, de Chinese Wet op de bescherming van persoonsgegevens, de EU-GDPR / de Britse GDPR en de CCPA/CPRA van Californië) (zie Paragraaf 10); **deze Voorwaarden sluiten de toepassing niet uit van dwingende (niet terzijde stelbare) regels inzake consumentenbescherming van het recht van uw locatie**.
+> - **Consistente gebruikersrechten**: Waar u zich ook bevindt, wij houden vast aan de beginselen van billijkheid, transparantie en eerbiediging van gebruikersrechten: uniforme toezeggingen over gegevensverwerking (foto's worden uitsluitend voor de huidige generatie gebruikt, niet voor advertenties en niet voor het trainen van AI-modellen, en grensoverschrijdende doorgifte is beschermd door versleuteling en standaardcontracten — zie het privacybeleid), uniforme kanalen voor de uitoefening van uw rechten en een uniform contactkanaal (Paragraaf 11).
 >
-> Hebt u vragen over gelokaliseerde diensten, taalondersteuning of de toepasselijke regels? Neem dan op elk moment contact met ons op via de gegevens in Paragraaf 11.
+> Hebt u vragen over gelokaliseerde diensten, taalondersteuning, grensoverschrijdende gegevensverwerking of de toepasselijke regels? Neem dan op elk moment contact met ons op via de gegevens in Paragraaf 11.
 
 ---
 
@@ -52,7 +52,7 @@ De App is een **AI-hulpmiddel voor het vooraf bekijken van kapsels**. U uploadt 
 - 60+ kapsels (categorieën mannen/vrouwen) en 22 haarkleuren om uit te kiezen;
 - Asynchrone AI-generatie van kapselvoorbeeldafbeeldingen;
 - Het opslaan van de gegenereerde resultaten in de systeemfotobibliotheek en het beheren van geschiedenisgegevens;
-- Een tweetalige interface (Chinees/Engels), donkere/lichte modus en meerdere themakleuren.
+- Een meertalige interface (met inbegrip van een lay-out van rechts naar links (RTL)), donkere/lichte modus en meerdere themakleuren.
 
 ### 2.2 Aard van de dienst
 
@@ -302,7 +302,7 @@ De totstandkoming, uitvoering en uitleg van deze Voorwaarden worden beheerst doo
 
 **Afstand van collectieve vorderingen (alleen waar de wet dit toestaat)**: Voor zover de toepasselijke wet dat toestaat (waaronder rechtsgebieden zoals de Verenigde Staten die een dergelijke afstand erkennen), komen beide partijen overeen geschillen op individuele basis te beslechten en geen procedure in te stellen of daaraan deel te nemen als vertegenwoordiger, op basis van een groep (class) of op geconsolideerde basis. **In rechtsgebieden waar een dergelijke afstand niet is toegestaan (bijvoorbeeld de EU, het VK en China), is dit lid niet van toepassing en blijft elk collectief of groepsrechtsmiddel dat u volgens de wet ter beschikking staat onverlet.**
 
-Op deze Voorwaarden is de Chinese tekst van toepassing en zij worden uitsluitend op basis daarvan uitgelegd; vertalingen in andere talen worden uitsluitend voor het leesgemak verstrekt en **vormen geen grondslag voor uitleg, noch scheppen zij enige zelfstandige rechtsgevolgen of rechten of verplichtingen**.
+Deze Voorwaarden worden in meerdere talen aangeboden en alle taalversies zijn gelijkelijk authentiek. Als er tussen de verschillende taalversies onduidelijkheid ontstaat, zullen wij die te goeder trouw uitleggen in het licht van het doel en de context van deze Voorwaarden en in samenhang met het toepasselijke dwingende recht.
 
 ---
 

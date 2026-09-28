@@ -17,16 +17,16 @@ dir: ltr
 
 ---
 
-> **Erklärung zum weltweiten Dienst (Global Service Statement)**
+> **Grenzüberschreitende Datenverarbeitung und Ihre Rechte (erläuternde Zusammenfassung)**
 >
-> BoboBru ist eine KI-App zum Wechseln der Frisur für Nutzer auf der ganzen Welt. Wir verpflichten uns, Nutzern in unterschiedlichen Ländern und Regionen eine sichere, vertrauenswürdige und lokalisierte Produkterfahrung zu bieten:
+> Dieser Abschnitt ist eine erläuternde Zusammenfassung, die ausschließlich dazu dient, Ihnen ein schnelles Verständnis der Kernpunkte dieser Richtlinie zu ermöglichen. Sie **ergänzt oder ändert diese Richtlinie nicht; die verbindlichen Bestimmungen dieser Richtlinie gehen diesem Abschnitt vor**.
 >
-> - **Abdeckung mehrerer Länder**: Die App ist in mehreren Ländern bzw. Regionen weltweit gelistet und verfügbar; Sie können sie im App Store Ihres Landes bzw. Ihrer Region herunterladen und nutzen;
-> - **Mehrsprachige Unterstützung**: Wir stellen Nutzern mit unterschiedlichem Sprachhintergrund eine lokalisierte Oberfläche bereit; derzeit werden **18 Sprachen** unterstützt — vereinfachtes Chinesisch, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe und Tiếng Việt — und wir werden weitere hinzufügen; Arabisch (العربية) verwendet ein von rechts nach links laufendes Layout (RTL);
-> - **Lokale Konformität**: Wir achten die Gesetze und Vorschriften an Ihrem Standort und verarbeiten Ihre personenbezogenen Daten nach den geltenden Datenschutzgesetzen (darunter unter anderem das chinesische Gesetz zum Schutz personenbezogener Daten, die EU-DSGVO / die britische UK-DSGVO und das kalifornische CCPA/CPRA) (siehe die Hinweise zur grenzüberschreitenden Übermittlung in Abschnitt 7);
-> - **Konsequentes Datenschutzversprechen**: Wo auch immer Sie sich befinden, halten wir bei der Datenverarbeitung am Grundsatz „Datenschutz zuerst und nur das notwendige Minimum“ fest und wahren Ihr Recht auf Information, Wahl und Kontrolle.
+> - **Keine Registrierung, keine Identifizierung**: Die App verwendet keine Telefonnummern, E-Mail-Adressen, Namen, genauen Standortdaten, Kontakte oder Werbe-IDs und auch keine sonstigen identifizierenden Informationen; alle Funktionen können anonym genutzt werden (Abschnitte 2 und 11)
+> - **Fotos werden nur für die jeweils aktuelle Generierung verwendet**: Die von Ihnen freiwillig hochgeladenen Fotos werden nur so lange verarbeitet, wie dies für den Abschluss der jeweils aktuellen Generierung erforderlich ist, und nicht für andere Zwecke aufbewahrt; sie werden über eine verschlüsselte HTTPS-/TLS-Verbindung übertragen; der KI-Anbieter gibt an, dass sie innerhalb von 24 Stunden automatisch gelöscht werden. **Ihre Fotos werden von uns nicht für Werbung, für die Erstellung von Nutzerprofilen oder für das Training von KI-Modellen verwendet** (Abschnitte 3, 7 und 9)
+> - **Gleichwertige Schutzvorkehrungen bei grenzüberschreitender Verarbeitung**: Ihre Fotos und die erforderlichen Aufzeichnungen können zur Verarbeitung in ein anderes Land oder eine andere Region als Ihr Land bzw. Ihre Region übermittelt werden; je nach tatsächlichem Einsatz wenden wir Schutzmaßnahmen wie Datenminimierung, HTTPS-/TLS-Verschlüsselung, den nach den chinesischen Maßnahmen für den Standardvertrag für die Ausfuhr personenbezogener Daten vorgesehenen Standardvertrag sowie die EU-Standardvertragsklauseln (SCC) an (Abschnitt 7)
+> - **Sie behalten die Kontrolle**: Sie können Ihren lokalen Verlauf jederzeit löschen, erteilte Berechtigungen in Ihren Systemeinstellungen widerrufen und die App deinstallieren, um alle lokalen Daten zu löschen; Sie können ferner Ihre gesonderte Einwilligung widerrufen oder die Löschung serverseitiger Aufzeichnungen über die in Abschnitt 13 genannte E-Mail-Adresse verlangen (Abschnitte 9 und 11)
 >
-> Wenn Sie Fragen zu lokalisierten Diensten, zur Sprachunterstützung oder zur grenzüberschreitenden Datenverarbeitung haben, kontaktieren Sie uns jederzeit über die in Abschnitt 13 genannten Kontaktdaten.
+> Die vorstehenden Zusagen gelten unabhängig davon, in welchem Land oder in welcher Region Sie sich befinden, in gleicher Weise. Diese Richtlinie wird in mehreren Sprachen bereitgestellt; zu den Sprachfassungen und ihrer Wirkung siehe Abschnitt 14. Zu unseren Leistungszusagen gegenüber Nutzern weltweit siehe ferner die Erklärung zum weltweiten Dienst in den Nutzungsbedingungen. Wenn Sie Fragen zur grenzüberschreitenden Datenverarbeitung haben, kontaktieren Sie uns bitte über die in Abschnitt 13 genannten Kontaktdaten.
 
 ---
 
@@ -299,4 +299,4 @@ Wenn Sie sich in der Europäischen Union befinden, können Sie uns zur Ausübung
 
 ## 14. Sprachfassung und Wirkung
 
-Diese Richtlinie unterliegt dem chinesischen Text und ist ausschließlich auf dessen Grundlage auszulegen; die Übersetzung in andere Sprachen dient ausschließlich der Lesefreundlichkeit und **stellt weder eine Auslegungsgrundlage dar noch begründet sie eine eigenständige Rechtswirkung oder irgendwelche Rechte oder Pflichten**. Weichen diese Richtlinie und die Nutzungsbedingungen in Fragen des Schutzes personenbezogener Daten voneinander ab, **geht diese Richtlinie vor**; in allen übrigen Fragen gehen die Nutzungsbedingungen vor.
+Diese Richtlinie wird in mehreren Sprachen bereitgestellt, und alle Sprachfassungen sind gleichermaßen maßgeblich. Ergibt sich zwischen den verschiedenen Sprachfassungen eine Unklarheit, werden wir sie nach Treu und Glauben im Hinblick auf Zweck und Zusammenhang dieser Richtlinie und in Verbindung mit dem anwendbaren zwingenden Recht auslegen. Weichen diese Richtlinie und die Nutzungsbedingungen in Fragen des Schutzes personenbezogener Daten voneinander ab, **geht diese Richtlinie vor**; in allen übrigen Fragen gehen die Nutzungsbedingungen vor.

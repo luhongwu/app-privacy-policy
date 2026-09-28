@@ -17,16 +17,16 @@ dir: ltr
 
 ---
 
-> **Déclaration de service mondial (Global Service Statement)**
+> **Traitement transfrontalier des données et vos droits (résumé explicatif)**
 >
-> BoboBru est une application de changement de coiffure par IA destinée aux utilisateurs du monde entier. Nous nous engageons à offrir une expérience produit sûre, fiable et localisée aux utilisateurs de différents pays et régions :
+> La présente section est un résumé explicatif fourni uniquement pour vous aider à comprendre rapidement les points essentiels de la présente Politique. Il **ne complète ni ne modifie la présente Politique ; les dispositions en vigueur de la présente Politique prévalent sur la présente section**.
 >
-> - **Couverture multi-pays** : l'App est disponible et fournit ses services dans plusieurs pays ou régions du monde ; vous pouvez la télécharger et l'utiliser depuis la boutique d'applications de votre pays ou région ;
-> - **Prise en charge multilingue** : nous proposons une interface localisée aux utilisateurs de différentes langues ; nous prenons actuellement en charge **18 langues** — chinois simplifié, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe et Tiếng Việt — et continuerons à en ajouter d'autres ; l'arabe (العربية) utilise une disposition de droite à gauche (RTL) ;
-> - **Conformité localisée** : nous respectons les lois et règlements de votre lieu de résidence et traitons vos informations personnelles conformément aux lois applicables en matière de protection des données (notamment la Loi chinoise sur la protection des informations personnelles, le RGPD de l'UE / le RGPD britannique et la CCPA/CPRA californienne) (voir les remarques sur les transferts transfrontaliers à la section 7) ;
-> - **Engagement de confidentialité cohérent** : où que vous soyez, nous appliquons le principe « la confidentialité d'abord et la minimisation nécessaire » dans le traitement des données, en garantissant vos droits à l'information, au choix et au contrôle.
+> - **Pas d'inscription, pas d'identification** : l'App n'utilise pas les numéros de téléphone, les adresses e-mail, les noms, la localisation précise, les contacts ou les identifiants publicitaires, ni aucune autre information identifiante ; toutes les fonctionnalités peuvent être utilisées de manière anonyme (sections 2 et 11)
+> - **Les photos ne servent qu'à la génération en cours** : les photos que vous téléversez volontairement ne sont traitées que pendant la durée nécessaire à la réalisation de la génération en cours et ne sont pas conservées à d'autres fins ; elles sont transmises via une connexion HTTPS / TLS chiffrée ; le fournisseur d'IA indique qu'elles sont automatiquement supprimées dans un délai de 24 heures. **Vos photos ne sont pas utilisées par nous à des fins publicitaires, de profilage des utilisateurs ou d'entraînement de modèles d'IA** (sections 3, 7 et 9)
+> - **Garanties équivalentes pour le traitement transfrontalier** : vos photos et les enregistrements nécessaires peuvent être transférés hors de votre pays ou région pour y être traités ; selon le déploiement effectif, nous appliquons des garanties telles que la minimisation des données, le chiffrement HTTPS / TLS, le contrat type prévu par les Mesures chinoises relatives au contrat type d'exportation d'informations personnelles et les clauses contractuelles types (SCC) de l'UE (section 7)
+> - **Vous gardez le contrôle** : vous pouvez à tout moment supprimer votre historique local, révoquer les autorisations accordées dans les paramètres de votre système et désinstaller l'App pour effacer toutes les données locales ; vous pouvez également retirer votre consentement distinct ou demander la suppression des enregistrements côté serveur via l'adresse e-mail indiquée à la section 13 (sections 9 et 11)
 >
-> Si vous avez des questions sur les services localisés, la prise en charge des langues ou le traitement transfrontalier des données, n'hésitez pas à nous contacter à tout moment via les coordonnées indiquées à la section 13.
+> Les engagements ci-dessus s'appliquent de la même manière, quel que soit le pays ou la région dans lequel vous vous trouvez. La présente Politique est fournie en plusieurs langues ; voir la section 14 pour les versions linguistiques et leur effet. Pour nos engagements de service envers les utilisateurs du monde entier, voir également la Déclaration de service mondial figurant dans les Conditions d'utilisation. Si vous avez des questions sur le traitement transfrontalier des données, veuillez nous contacter via les coordonnées indiquées à la section 13.
 
 ---
 
@@ -299,4 +299,4 @@ Si vous vous trouvez dans l'Union européenne, vous pouvez nous contacter direct
 
 ## 14. Version linguistique et effet
 
-La présente Politique est régie par le texte en chinois et doit être interprétée uniquement sur cette base ; la traduction dans une autre langue est fournie uniquement pour faciliter la lecture et **ne constitue pas une base d'interprétation et ne crée aucun effet juridique indépendant ni aucun droit ou obligation**. En cas de divergence entre la présente Politique et les Conditions d'utilisation en matière de protection des informations personnelles, **la présente Politique prévaut** ; sur les autres points, les Conditions d'utilisation prévalent.
+La présente Politique est fournie en plusieurs langues et toutes les versions linguistiques ont la même force. Si une ambiguïté survient entre les différents textes linguistiques, nous l'interpréterons de bonne foi à la lumière de l'objet et du contexte de la présente Politique et conjointement avec le droit impératif applicable. Lorsque la présente Politique et les Conditions d'utilisation sont incompatibles en matière de protection des informations personnelles, **la présente Politique prévaut** ; sur les autres points, les Conditions d'utilisation prévalent.

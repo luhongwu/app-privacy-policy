@@ -19,14 +19,14 @@ dir: ltr
 
 > **Global Service Statement**
 >
-> BoboBru is an AI hairstyle app serving users worldwide. We are committed to providing a safe, trustworthy, and localized product experience for users in different countries and regions:
+> BoboBru is an AI hairstyle app serving users worldwide. This Statement describes our basic commitments in serving users globally; it **does not supplement or modify these Terms; the operative provisions of these Terms prevail over this Statement**.
 >
-> - **Multi-country coverage**: The App is listed and provides services in multiple countries or regions around the world; you can download and use it from the app store in your country or region. Prices, taxes, and available features may vary by country or region (see Section 2.3);
-> - **Multi-language support**: We provide a localized interface for users with different language backgrounds. We currently support **18 languages** — Simplified Chinese, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe, and Tiếng Việt — and will continue to add more; Arabic (العربية) uses right-to-left (RTL) layout;
-> - **Localized compliance**: We respect the laws and regulations of your location and provide the App and services in accordance with applicable consumer-protection and data-protection laws (including but not limited to those of China, the EU GDPR / UK GDPR, and California's CCPA/CPRA) (see Section 10, Governing Law and Dispute Resolution);
-> - **Consistent user rights**: Wherever you are, we adhere to the principles of fairness, transparency, and respect for user rights, so that your lawful rights are not affected by geography.
+> - **Multi-country/region coverage**: The App is listed on and provides services through app stores in multiple countries/regions; you may download and use it in your country or region; **prices, taxes, and available features may vary by country or region** (see Section 2.3).
+> - **Multi-language support**: The App interface and these Terms are provided in multiple languages, including Traditional Chinese, as well as languages that use right-to-left (RTL) layout such as Arabic and Persian; **the languages available are those listed under "Settings → Language" in the App**, and we will continue to expand the languages supported.
+> - **Localized compliance**: We respect the laws and regulations of your location and provide the App and the services in accordance with applicable consumer-protection and data-protection laws (including but not limited to China's Personal Information Protection Law, the EU GDPR / UK GDPR, and California's CCPA/CPRA) (see Section 10); **these Terms do not exclude the application of mandatory (non-waivable) consumer-protection rules of the law of your location**.
+> - **Consistent user rights**: Wherever you are, we adhere to the principles of fairness, transparency, and respect for user rights: uniform data-processing commitments (photos are used only for the current generation, are not used for advertising or for training AI models, and cross-border transfers are protected by encryption and standard contracts — see the Privacy Policy), uniform channels for exercising your rights, and a uniform contact channel (Section 11).
 >
-> If you have any questions about localized services, language support, or the applicable rules, please contact us at any time using the details in Section 11.
+> If you have any questions about localized services, language support, cross-border data processing, or the applicable rules, please contact us at any time using the details in Section 11.
 
 ---
 
@@ -52,7 +52,7 @@ The App is an **AI hairstyle preview tool**. You upload your photo, select a hai
 - 60+ hairstyles (male/female categories) and 22 hair colors to choose from;
 - AI asynchronous generation of hairstyle preview images;
 - Saving generated results to the system photo library and managing history records;
-- Chinese/English bilingual interface, dark/light mode, and multiple theme colors.
+- Multi-language interface (including right-to-left (RTL) layout), dark/light mode, and multiple theme colors.
 
 ### 2.2 Nature of Service
 
@@ -302,7 +302,7 @@ The formation, execution, and interpretation of these Terms shall be governed by
 
 **Class-action waiver (only where permitted by law)**: To the extent permitted by applicable law (including jurisdictions such as the United States that recognize such waivers), both parties agree to resolve disputes on an individual basis and not to bring or participate in any proceeding as a representative, on a class, or on a consolidated basis. **In jurisdictions where such a waiver is not permitted (for example, the EU, the UK, and China), this paragraph does not apply, and any collective or group remedy available to you under law is unaffected.**
 
-These Terms are governed by, and shall be interpreted solely on the basis of, the Chinese-language text; the English translation is provided for convenience of reading only and **does not constitute a basis for interpretation, nor does it create any independent legal effect or any rights or obligations**.
+These Terms are provided in multiple languages, and all language versions are equally authentic. If any ambiguity arises between the different language texts, we will interpret them in good faith in light of the purpose and context of these Terms and in conjunction with applicable mandatory law.
 
 ---
 

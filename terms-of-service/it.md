@@ -19,14 +19,14 @@ dir: ltr
 
 > **Dichiarazione di servizio globale (Global Service Statement)**
 >
-> BoboBru è un'app di cambio acconciatura con IA destinata a utenti di tutto il mondo. Ci impegniamo a offrire un'esperienza di prodotto sicura, affidabile e localizzata agli utenti di diversi Paesi e regioni:
+> BoboBru è un'app di acconciature con IA al servizio di utenti di tutto il mondo. La presente Dichiarazione descrive i nostri impegni fondamentali nel servire gli utenti a livello globale; **non integra né modifica i presenti Termini; le disposizioni vigenti dei presenti Termini prevalgono sulla presente Dichiarazione**.
 >
-> - **Copertura multi-Paese**: l'App è disponibile e fornisce i propri servizi in diversi Paesi o regioni del mondo; puoi scaricarla e utilizzarla dallo store di applicazioni del tuo Paese o regione. Prezzi, imposte e funzionalità disponibili possono variare in base al Paese o alla regione (vedi sezione 2.3);
-> - **Supporto multilingue**: forniamo un'interfaccia localizzata agli utenti con background linguistici diversi; attualmente supportiamo **18 lingue** — cinese semplificato, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe e Tiếng Việt — e ne aggiungeremo altre; l'arabo (العربية) utilizza un layout da destra a sinistra (RTL);
-> - **Conformità localizzata**: rispettiamo le leggi e i regolamenti della tua località e forniamo l'App e i servizi secondo le leggi applicabili in materia di protezione dei consumatori e di protezione dei dati (tra cui, a titolo esemplificativo, quelle della Cina, il RGPD dell'UE / il RGPD del Regno Unito e il CCPA/CPRA della California) (vedi sezione 10, Legge applicabile e risoluzione delle controversie);
-> - **Diritti degli utenti coerenti**: ovunque tu sia, applichiamo i principi di equità, trasparenza e rispetto dei diritti degli utenti, affinché i tuoi diritti legittimi non siano pregiudicati dalla geografia.
+> - **Copertura multi-Paese/regione**: l'App è presente e fornisce i propri servizi tramite gli store di applicazioni di più Paesi/regioni; puoi scaricarla e utilizzarla nel tuo Paese o regione; **prezzi, imposte e funzionalità disponibili possono variare in base al Paese o alla regione** (vedi sezione 2.3).
+> - **Supporto multilingue**: l'interfaccia dell'App e i presenti Termini sono forniti in più lingue, incluso il cinese tradizionale, nonché lingue che utilizzano un layout da destra a sinistra (RTL), come l'arabo e il persiano; **le lingue disponibili sono quelle elencate in «Impostazioni → Lingua» nell'App**, e continueremo ad ampliare le lingue supportate.
+> - **Conformità localizzata**: rispettiamo le leggi e i regolamenti della tua località e forniamo l'App e i servizi secondo le leggi applicabili in materia di protezione dei consumatori e di protezione dei dati (tra cui, a titolo esemplificativo, la Legge cinese sulla protezione delle informazioni personali, il RGPD dell'UE / il RGPD del Regno Unito e il CCPA/CPRA della California) (vedi sezione 10); **i presenti Termini non escludono l'applicazione delle norme imperative (inderogabili) di protezione dei consumatori previste dalla legge della tua località**.
+> - **Diritti degli utenti coerenti**: ovunque tu sia, applichiamo i principi di equità, trasparenza e rispetto dei diritti degli utenti: impegni uniformi di trattamento dei dati (le foto sono utilizzate solo per la generazione corrente, non sono usate per pubblicità né per addestrare modelli di IA, e i trasferimenti transfrontalieri sono protetti da crittografia e contratti standard — vedi l'Informativa sulla privacy), canali uniformi per esercitare i tuoi diritti e un canale di contatto uniforme (sezione 11).
 >
-> Se hai domande sui servizi localizzati, sul supporto linguistico o sulle regole applicabili, contattaci in qualsiasi momento utilizzando i recapiti indicati nella sezione 11.
+> Se hai domande sui servizi localizzati, sul supporto linguistico, sul trattamento transfrontaliero dei dati o sulle regole applicabili, contattaci in qualsiasi momento utilizzando i recapiti della sezione 11.
 
 ---
 
@@ -52,7 +52,7 @@ L'App è uno **strumento di anteprima di acconciature con IA**. Carichi la tua f
 - Oltre 60 acconciature (categorie maschile/femminile) e 22 colori di capelli tra cui scegliere;
 - Generazione asincrona con IA di immagini di anteprima delle acconciature;
 - Salvataggio dei risultati generati nella raccolta di sistema e gestione della cronologia;
-- Interfaccia bilingue cinese/inglese, modalità scura/chiara e più colori del tema.
+- Interfaccia multilingue (incluso il layout da destra a sinistra [RTL]), modalità scura/chiara e più colori del tema.
 
 ### 2.2 Natura del servizio
 
@@ -302,7 +302,7 @@ La formazione, l'esecuzione e l'interpretazione dei presenti Termini sono discip
 
 **Rinuncia alle azioni collettive (solo ove consentito dalla legge)**: nella misura consentita dalla legge applicabile (incluse giurisdizioni come gli Stati Uniti che riconoscono tali rinunce), entrambe le parti concordano di risolvere le controversie su base individuale e di non proporre né partecipare ad alcun procedimento in qualità di rappresentante, o come azione collettiva o consolidata. **Nelle giurisdizioni in cui tale rinuncia non è ammessa (ad esempio UE, Regno Unito e Cina), il presente paragrafo non si applica, e qualsiasi rimedio collettivo o di gruppo disponibile per legge resta impregiudicato.**
 
-I presenti Termini sono disciplinati dal testo in cinese e devono essere interpretati esclusivamente sulla base di esso; la traduzione in altre lingue è fornita solo per agevolare la lettura e **non costituisce base di interpretazione né crea alcun effetto giuridico autonomo o diritti od obblighi di sorta**.
+I presenti Termini sono forniti in più lingue e tutte le versioni linguistiche sono ugualmente autentiche. Qualora sorga un'ambiguità tra i diversi testi linguistici, li interpreteremo in buona fede alla luce della finalità e del contesto dei presenti Termini e unitamente al diritto imperativo applicabile.
 
 ---
 

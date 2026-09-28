@@ -17,16 +17,16 @@ dir: ltr
 
 ---
 
-> **Dichiarazione di servizio globale (Global Service Statement)**
+> **Trattamento transfrontaliero dei dati e i tuoi diritti (riepilogo esplicativo)**
 >
-> BoboBru è un'app di cambio acconciatura con IA destinata a utenti di tutto il mondo. Ci impegniamo a offrire un'esperienza di prodotto sicura, affidabile e localizzata agli utenti di diversi Paesi e regioni:
+> Questa sezione è un riepilogo esplicativo fornito al solo scopo di aiutarti a comprendere rapidamente i punti chiave della presente Informativa. **Non integra né modifica la presente Informativa; le disposizioni vigenti della presente Informativa prevalgono su questa sezione**.
 >
-> - **Copertura multi-Paese**: l'App è disponibile e fornisce i propri servizi in diversi Paesi o regioni del mondo; puoi scaricarla e utilizzarla dallo store di applicazioni del tuo Paese o regione;
-> - **Supporto multilingue**: forniamo un'interfaccia localizzata agli utenti con background linguistici diversi; attualmente supportiamo **18 lingue** — cinese semplificato, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe e Tiếng Việt — e ne aggiungeremo altre; l'arabo (العربية) utilizza un layout da destra a sinistra (RTL);
-> - **Conformità localizzata**: rispettiamo le leggi e i regolamenti della tua località e trattiamo le tue informazioni personali secondo le leggi applicabili in materia di protezione dei dati (tra cui, a titolo esemplificativo, la Legge cinese sulla protezione delle informazioni personali, il RGPD dell'UE / il RGPD del Regno Unito e il CCPA/CPRA della California) (vedi le note sul trasferimento transfrontaliero nella sezione 7);
-> - **Impegno coerente per la privacy**: ovunque tu sia, applichiamo il principio «privacy prima di tutto e minimizzazione necessaria» nel trattamento dei dati, garantendo i tuoi diritti di informazione, scelta e controllo.
+> - **Nessuna registrazione, nessuna identificazione**: l'App non utilizza numeri di telefono, indirizzi e-mail, nomi, posizione precisa, contatti o identificatori pubblicitari, né altre informazioni identificative; tutte le funzionalità possono essere utilizzate in modo anonimo (sezioni 2 e 11)
+> - **Le foto sono utilizzate solo per la generazione corrente**: le foto che carichi volontariamente sono trattate solo per il tempo necessario a completare la generazione corrente e non sono conservate per altre finalità; vengono trasmesse tramite una connessione HTTPS / TLS crittografata; il fornitore di IA dichiara che vengono eliminate automaticamente entro 24 ore. **Non utilizziamo le tue foto per pubblicità, per la profilazione degli utenti o per addestrare modelli di IA** (sezioni 3, 7 e 9)
+> - **Garanzie equivalenti per il trattamento transfrontaliero**: le tue foto e i registri necessari possono essere trasferiti al di fuori del tuo Paese o regione per il trattamento; in base all'effettiva implementazione, applichiamo garanzie quali la minimizzazione dei dati, la crittografia HTTPS / TLS, il contratto standard previsto dalle Misure per il contratto standard di esportazione delle informazioni personali della Cina e le Clausole contrattuali standard (SCC) dell'UE (sezione 7)
+> - **Mantieni il controllo**: puoi eliminare la tua cronologia locale in qualsiasi momento, revocare le autorizzazioni concesse nelle impostazioni di sistema e disinstallare l'App per cancellare tutti i dati locali; puoi inoltre revocare il tuo consenso specifico o richiedere la cancellazione dei registri sul server tramite l'indirizzo e-mail indicato nella sezione 13 (sezioni 9 e 11)
 >
-> Se hai domande sui servizi localizzati, sul supporto linguistico o sul trattamento transfrontaliero dei dati, contattaci in qualsiasi momento utilizzando i recapiti indicati nella sezione 13.
+> Gli impegni sopra indicati si applicano in modo coerente indipendentemente dal Paese o dalla regione in cui ti trovi. La presente Informativa è fornita in più lingue; vedi la sezione 14 per le versioni linguistiche e i relativi effetti. Per i nostri impegni di servizio verso gli utenti di tutto il mondo, vedi anche la Dichiarazione di servizio globale nei Termini di servizio. Se hai domande sul trattamento transfrontaliero dei dati, contattaci utilizzando i recapiti della sezione 13.
 
 ---
 
@@ -299,4 +299,4 @@ Se ti trovi nell'Unione europea, puoi contattarci direttamente all'indirizzo e-m
 
 ## 14. Versione linguistica ed efficacia
 
-La presente Informativa è disciplinata dal testo in cinese e deve essere interpretata esclusivamente sulla base di esso; la traduzione in altre lingue è fornita solo per agevolare la lettura e **non costituisce base di interpretazione né crea alcun effetto giuridico autonomo o diritti od obblighi di sorta**. Qualora la presente Informativa e i Termini di servizio risultino in contrasto in materia di protezione delle informazioni personali, **prevale la presente Informativa**; su altre questioni prevalgono i Termini di servizio.
+La presente Informativa è fornita in più lingue e tutte le versioni linguistiche sono ugualmente autentiche. Qualora sorga un'ambiguità tra i diversi testi linguistici, la interpreteremo in buona fede alla luce della finalità e del contesto della presente Informativa e unitamente al diritto imperativo applicabile. Qualora la presente Informativa e i Termini di servizio risultino in contrasto in materia di protezione delle informazioni personali, **prevale la presente Informativa**; su altre questioni prevalgono i Termini di servizio.

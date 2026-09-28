@@ -19,14 +19,14 @@ dir: ltr
 
 > **Declaración de Servicio Global (Global Service Statement)**
 >
-> BoboBru es una aplicación de cambio de peinado con IA para usuarios de todo el mundo. Nos comprometemos a ofrecer una experiencia de producto segura, fiable y localizada a los usuarios de distintos países y regiones:
+> BoboBru es una aplicación de peinados con IA que presta servicio a usuarios de todo el mundo. Esta Declaración describe nuestros compromisos básicos en la prestación de servicio a usuarios a nivel global; **no complementa ni modifica estos Términos; las disposiciones vigentes de estos Términos prevalecen sobre esta Declaración**.
 >
-> - **Cobertura multinacional**: la App está disponible y presta servicio en múltiples países o regiones de todo el mundo; puedes descargarla y usarla desde la tienda de aplicaciones de tu país o región. Los precios, impuestos y funciones disponibles pueden variar según el país o la región (véase la sección 2.3);
-> - **Soporte multilingüe**: ofrecemos una interfaz localizada a usuarios con distintos idiomas; actualmente admitimos **18 idiomas** — chino simplificado, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe y Tiếng Việt — y seguiremos añadiendo más; el árabe (العربية) utiliza una disposición de derecha a izquierda (RTL);
-> - **Cumplimiento local**: respetamos las leyes y los reglamentos de tu ubicación y prestamos la App y los servicios de conformidad con las leyes aplicables de protección de los consumidores y de protección de datos (incluidas, entre otras, las de China, el RGPD de la UE / el RGPD del Reino Unido y la CCPA/CPRA de California) (véase la sección 10, Ley aplicable y resolución de disputas);
-> - **Derechos de usuario coherentes**: estés donde estés, mantenemos los principios de equidad, transparencia y respeto de los derechos de los usuarios, para que tus derechos legítimos no se vean afectados por la geografía.
+> - **Cobertura en múltiples países/regiones**: la App está listada y presta servicio a través de las tiendas de aplicaciones de múltiples países/regiones; puedes descargarla y usarla en tu país o región; **los precios, los impuestos y las funciones disponibles pueden variar según el país o la región** (véase la sección 2.3).
+> - **Soporte multilingüe**: la interfaz de la App y estos Términos se ofrecen en varios idiomas, incluido el chino tradicional, así como idiomas que utilizan una disposición de derecha a izquierda (RTL), como el árabe y el persa; **los idiomas disponibles son los que se enumeran en «Ajustes → Idioma» dentro de la App**, y seguiremos ampliando los idiomas admitidos.
+> - **Cumplimiento localizado**: respetamos las leyes y los reglamentos de tu ubicación y prestamos la App y los servicios de conformidad con las leyes aplicables de protección de los consumidores y de protección de datos (incluidas, entre otras, la Ley de Protección de la Información Personal de China, el RGPD de la UE / el RGPD del Reino Unido y la CCPA/CPRA de California) (véase la sección 10); **estos Términos no excluyen la aplicación de las normas imperativas (irrenunciables) de protección de los consumidores de la ley de tu ubicación**.
+> - **Derechos de usuario coherentes**: estés donde estés, mantenemos los principios de equidad, transparencia y respeto de los derechos de los usuarios: compromisos uniformes de tratamiento de datos (las fotos se usan solo para la generación actual, no se usan para publicidad ni para entrenar modelos de IA, y las transferencias transfronterizas se protegen mediante cifrado y contratos estándar —véase la Política de Privacidad—), canales uniformes para ejercer tus derechos y un canal de contacto uniforme (sección 11).
 >
-> Si tienes alguna pregunta sobre el servicio localizado, el soporte de idiomas o las reglas aplicables, puedes contactarnos en cualquier momento a través de los datos de contacto indicados en la sección 11.
+> Si tienes alguna pregunta sobre los servicios localizados, el soporte de idiomas, el tratamiento transfronterizo de datos o las reglas aplicables, contacta con nosotros en cualquier momento utilizando los datos de la sección 11.
 
 ---
 
@@ -52,7 +52,7 @@ La App es una **herramienta de previsualización de peinados con IA**. Subes tu 
 - Más de 60 peinados (categorías masculina/femenina) y 22 colores de pelo entre los que elegir;
 - Generación asíncrona con IA de imágenes de previsualización de peinados;
 - Guardar los resultados generados en la fototeca del sistema y gestionar los registros de historial;
-- Interfaz bilingüe chino/inglés, modo oscuro/claro y varios colores de tema.
+- Interfaz multilingüe (incluida la disposición de derecha a izquierda [RTL]), modo oscuro/claro y varios colores de tema.
 
 ### 2.2 Naturaleza del servicio
 
@@ -302,7 +302,7 @@ La formación, la ejecución y la interpretación de estos Términos se regirán
 
 **Renuncia a acciones colectivas (solo donde la ley lo permita)**: en la medida permitida por la ley aplicable (incluidas jurisdicciones como Estados Unidos que reconocen dichas renuncias), ambas partes acuerdan resolver las disputas de forma individual y no interponer ni participar en ningún procedimiento como representante, en forma de acción colectiva o consolidada. **En las jurisdicciones donde dicha renuncia no esté permitida (por ejemplo, la UE, el Reino Unido y China), este párrafo no se aplica, y cualquier recurso colectivo o grupal disponible para ti conforme a la ley no se ve afectado.**
 
-Estos Términos se rigen por el texto en chino y se interpretarán únicamente sobre su base; la traducción a otros idiomas se ofrece únicamente para facilitar la lectura y **no constituye una base de interpretación ni crea ningún efecto jurídico independiente ni derecho u obligación alguna**.
+Estos Términos se ofrecen en varios idiomas y todas las versiones lingüísticas son igualmente auténticas. Si surge alguna ambigüedad entre los distintos textos lingüísticos, los interpretaremos de buena fe atendiendo a la finalidad y el contexto de estos Términos y de conformidad con el derecho imperativo aplicable.
 
 ---
 

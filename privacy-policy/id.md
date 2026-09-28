@@ -17,16 +17,16 @@ dir: ltr
 
 ---
 
-> **Pernyataan Layanan Global (Global Service Statement)**
+> **Pemrosesan Data Lintas Batas dan Hak Anda (Ringkasan Penjelasan)**
 >
-> BoboBru adalah aplikasi gaya rambut AI yang melayani pengguna di seluruh dunia. Kami berkomitmen untuk memberikan pengalaman produk yang aman, tepercaya, dan terlokalisasi bagi pengguna di berbagai negara dan wilayah:
+> Bagian ini adalah ringkasan penjelasan yang disediakan hanya untuk membantu Anda memahami dengan cepat poin-poin utama Kebijakan ini. Ringkasan ini **tidak menambah atau mengubah Kebijakan ini; ketentuan operasional Kebijakan ini berlaku mengesampingkan Bagian ini**.
 >
-> - **Cakupan multi-negara**: Aplikasi ini terdaftar dan menyediakan layanan di berbagai negara atau wilayah di seluruh dunia; Anda dapat mengunduh dan menggunakannya dari toko aplikasi di negara atau wilayah Anda;
-> - **Dukungan multi-bahasa**: Kami menyediakan antarmuka yang terlokalisasi bagi pengguna dengan latar belakang bahasa yang berbeda. Saat ini kami mendukung **18 bahasa** — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe, dan Tiếng Việt — dan akan terus menambahnya; bahasa Arab (العربية) menggunakan tata letak kanan-ke-kiri (RTL);
-> - **Kepatuhan terlokalisasi**: Kami menghormati hukum dan peraturan di lokasi Anda serta memproses informasi pribadi Anda sesuai dengan hukum perlindungan data yang berlaku (termasuk namun tidak terbatas pada Undang-Undang Perlindungan Informasi Pribadi Tiongkok, GDPR Uni Eropa / GDPR Inggris, dan CCPA/CPRA California) (lihat catatan transfer lintas batas pada Bagian 7);
-> - **Komitmen privasi yang konsisten**: Di mana pun Anda berada, kami berpegang pada prinsip "privasi utama dan minimisasi data", serta menjaga hak Anda untuk mengetahui, memilih, dan mengendalikan.
+> - **Tanpa pendaftaran, tanpa identifikasi**: Aplikasi tidak menggunakan nomor telepon, alamat email, nama, lokasi presisi, kontak, atau ID iklan, maupun informasi identitas lainnya; seluruh fitur dapat digunakan secara anonim (Bagian 2 dan 11)
+> - **Foto hanya digunakan untuk generasi saat ini**: Foto yang Anda unggah secara sukarela diproses hanya selama diperlukan untuk menyelesaikan generasi saat ini dan tidak disimpan untuk tujuan lain; foto dikirimkan melalui koneksi HTTPS / TLS terenkripsi; penyedia AI menyatakan bahwa foto dihapus secara otomatis dalam waktu 24 jam. **Foto Anda tidak kami gunakan untuk iklan, pembuatan profil pengguna, atau pelatihan model AI** (Bagian 3, 7, dan 9)
+> - **Perlindungan yang setara untuk pemrosesan lintas batas**: Foto dan catatan yang diperlukan dapat ditransfer ke luar negara atau wilayah Anda untuk diproses; bergantung pada penerapan aktualnya, kami menerapkan perlindungan seperti minimisasi data, enkripsi HTTPS / TLS, kontrak standar yang disediakan berdasarkan Measures for the Standard Contract for the Export of Personal Information Tiongkok, dan Klausul Kontrak Standar (SCC) Uni Eropa (Bagian 7)
+> - **Anda tetap memegang kendali**: Anda dapat menghapus riwayat lokal kapan saja, mencabut izin yang telah diberikan di pengaturan sistem, dan menghapus instalan Aplikasi untuk menghapus semua data lokal; Anda juga dapat mencabut persetujuan terpisah Anda atau meminta penghapusan catatan di sisi server melalui alamat email pada Bagian 13 (Bagian 9 dan 11)
 >
-> Jika Anda memiliki pertanyaan tentang layanan terlokalisasi, dukungan bahasa, atau pemrosesan data lintas batas, silakan hubungi kami kapan saja menggunakan detail pada Bagian 13.
+> Komitmen di atas berlaku secara konsisten di mana pun negara atau wilayah Anda berada. Kebijakan ini disediakan dalam berbagai bahasa; lihat Bagian 14 untuk versi bahasa dan kekuatan berlakunya. Untuk komitmen layanan kami kepada pengguna di seluruh dunia, lihat juga Pernyataan Layanan Global dalam Ketentuan Layanan. Jika Anda memiliki pertanyaan tentang pemrosesan data lintas batas, silakan hubungi kami menggunakan detail pada Bagian 13.
 
 ---
 
@@ -299,4 +299,4 @@ Jika Anda berada di Uni Eropa, Anda dapat menghubungi kami langsung melalui emai
 
 ## 14. Versi Bahasa dan Kekuatan Berlakunya
 
-Kebijakan ini diatur oleh, dan semata-mata ditafsirkan berdasarkan, teks bahasa Mandarin; terjemahan ke bahasa lain hanya disediakan untuk kemudahan membaca dan **tidak merupakan dasar penafsiran, serta tidak menciptakan kekuatan hukum yang berdiri sendiri atau hak maupun kewajiban apa pun**. Jika Kebijakan ini dan Ketentuan Layanan tidak konsisten dalam hal perlindungan informasi pribadi, **Kebijakan ini yang berlaku**; dalam hal lain, Ketentuan Layanan yang berlaku.
+Kebijakan ini disediakan dalam berbagai bahasa, dan seluruh versi bahasa sama-sama otentik. Jika terjadi ambiguitas di antara berbagai teks bahasa tersebut, kami akan menafsirkannya dengan iktikad baik berdasarkan tujuan dan konteks Kebijakan ini serta dengan memperhatikan hukum memaksa yang berlaku. Jika Kebijakan ini dan Ketentuan Layanan tidak konsisten dalam hal perlindungan informasi pribadi, **Kebijakan ini yang berlaku**; dalam hal lain, Ketentuan Layanan yang berlaku.

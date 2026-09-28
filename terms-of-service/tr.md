@@ -19,14 +19,14 @@ dir: ltr
 
 > **Küresel Hizmet Bildirimi (Global Service Statement)**
 >
-> BoboBru, dünya genelindeki kullanıcılara hizmet veren bir AI saç modeli uygulamasıdır. Farklı ülke ve bölgelerdeki kullanıcılara güvenli, güvenilir ve yerelleştirilmiş bir ürün deneyimi sunmayı taahhüt ediyoruz:
+> BoboBru, dünya genelindeki kullanıcılara hizmet veren bir AI saç modeli uygulamasıdır. Bu Bildirim, kullanıcılara küresel ölçekte hizmet sunarken benimsediğimiz temel taahhütleri açıklar ve **bu Şartları tamamlamaz veya değiştirmez; bu Şartların yürürlükteki hükümleri bu Bildirime göre üstün olur**.
 >
-> - **Çok ülke kapsamı**: Uygulama dünya genelindeki birçok ülke veya bölgede listelenmekte ve hizmet sunmaktadır; ülkenizdeki veya bölgenizdeki uygulama mağazasından indirip kullanabilirsiniz. Fiyatlar, vergiler ve kullanılabilir özellikler ülkeye veya bölgeye göre değişebilir (Bölüm 2.3'e bakın);
-> - **Çok dil desteği**: Farklı dil geçmişine sahip kullanıcılar için yerelleştirilmiş bir arayüz sunuyoruz. Şu anda **18 dil** desteklenmektedir — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe ve Tiếng Việt — ve yenilerini eklemeye devam edeceğiz; Arapça (العربية) sağdan sola (RTL) düzeni kullanır;
-> - **Yerelleştirilmiş uyum**: Bulunduğunuz yerin kanun ve yönetmeliklerine saygı duyuyoruz ve Uygulamayı ve hizmetleri yürürlükteki tüketiciyi koruma ve veri koruma kanunlarına uygun olarak sunuyoruz (bunlarla sınırlı olmamak üzere Çin, AB GDPR / Birleşik Krallık GDPR ve Kaliforniya CCPA/CPRA kanunları dâhil) (Bölüm 10'a, Uygulanacak Hukuk ve Uyuşmazlıkların Çözümü'ne bakın);
-> - **Tutarlı kullanıcı hakları**: Nerede olursanız olun, adillik, şeffaflık ve kullanıcı haklarına saygı ilkelerine bağlı kalarak yasal haklarınızın coğrafyadan etkilenmemesini sağlıyoruz.
+> - **Çok ülke/bölge kapsamı**: Uygulama birçok ülke/bölgedeki uygulama mağazasında listelenmekte ve hizmetlerini bu mağazalar üzerinden sunmaktadır; ülkenizde veya bölgenizde indirip kullanabilirsiniz; **fiyatlar, vergiler ve kullanılabilir özellikler ülkeye veya bölgeye göre değişebilir** (Bölüm 2.3'e bakın).
+> - **Çok dil desteği**: Uygulama arayüzü ve bu Şartlar, Geleneksel Çince'nin yanı sıra Arapça ve Farsça gibi sağdan sola (RTL) düzen kullanan diller dâhil olmak üzere birden çok dilde sunulmaktadır; **kullanılabilir diller, Uygulamada "Ayarlar → Dil" altında listelenen dillerdir** ve desteklenen dilleri genişletmeye devam edeceğiz.
+> - **Yerelleştirilmiş uyum**: Bulunduğunuz yerin kanun ve yönetmeliklerine saygı duyuyoruz ve Uygulamayı ve hizmetleri yürürlükteki tüketiciyi koruma ve veri koruma kanunlarına uygun olarak sunuyoruz (bunlarla sınırlı olmamak üzere Çin'in Kişisel Bilgilerin Korunması Kanunu, AB GDPR / Birleşik Krallık GDPR ve Kaliforniya CCPA/CPRA dâhil) (Bölüm 10'a bakın); **bu Şartlar, bulunduğunuz yerin kanununun emredici (feragat edilemez) tüketiciyi koruma kurallarının uygulanmasını hariç tutmaz**.
+> - **Tutarlı kullanıcı hakları**: Nerede olursanız olun, adillik, şeffaflık ve kullanıcı haklarına saygı ilkelerine bağlı kalırız: veri işleme konusunda tek tip taahhütler (fotoğraflar yalnızca mevcut üretim için kullanılır, reklam amacıyla veya AI modellerinin eğitimi için kullanılmaz ve sınır ötesi aktarımlar şifreleme ve standart sözleşmelerle korunur — Gizlilik Politikası'na bakın), haklarınızı kullanmanız için tek tip kanallar ve tek tip bir iletişim kanalı (Bölüm 11).
 >
-> Yerelleştirilmiş hizmetler, dil desteği veya geçerli kurallar hakkında sorularınız varsa, Bölüm 11'deki iletişim bilgilerini kullanarak istediğiniz zaman bizimle iletişime geçebilirsiniz.
+> Yerelleştirilmiş hizmetler, dil desteği, sınır ötesi veri işleme veya geçerli kurallar hakkında sorularınız varsa, Bölüm 11'deki iletişim bilgilerini kullanarak istediğiniz zaman bizimle iletişime geçebilirsiniz.
 
 ---
 
@@ -52,7 +52,7 @@ Uygulama bir **AI saç modeli önizleme aracıdır**. Fotoğrafınızı yüklers
 - Seçim için 60'tan fazla saç modeli (erkek/kadın kategorileri) ve 22 saç rengi;
 - Saç modeli önizleme görsellerinin AI tarafından asenkron olarak üretilmesi;
 - Üretilen sonuçların sistem fotoğraf kitaplığına kaydedilmesi ve geçmiş kayıtlarının yönetilmesi;
-- Çince/İngilizce iki dilli arayüz, koyu/açık mod ve çok sayıda tema rengi.
+- Sağdan sola (RTL) düzen dâhil çok dilli arayüz, koyu/açık mod ve çok sayıda tema rengi.
 
 ### 2.2 Hizmetin Niteliği
 
@@ -302,7 +302,7 @@ Bu Şartların kurulması, ifası ve yorumlanması Geliştiricinin yetki alanın
 
 **Toplu dava feragati (yalnızca kanunun izin verdiği ölçüde)**: Yürürlükteki kanunun izin verdiği ölçüde (bu tür feragati tanıyan Amerika Birleşik Devletleri gibi yetki alanları dâhil), her iki taraf uyuşmazlıkları bireysel esasa göre çözmeyi ve temsilci olarak, bir grup (class) adına veya birleştirilmiş esasa göre herhangi bir işlem başlatmamayı veya böyle bir işleme katılmamayı kabul eder. **Bu tür bir feragatin izin verilmediği yetki alanlarında (örneğin AB, Birleşik Krallık ve Çin) bu paragraf uygulanmaz ve kanun uyarınca size sunulan toplu veya grup çözüm yolları etkilenmez.**
 
-Bu Şartlar Çince metne tabidir ve yalnızca ona dayanılarak yorumlanır; diğer dillere çeviriler yalnızca okuma kolaylığı için sağlanmıştır ve **yorum için dayanak teşkil etmez, bağımsız bir hukuki sonuç veya herhangi bir hak veya yükümlülük doğurmaz**.
+Bu Şartlar birden çok dilde sunulmaktadır ve tüm dil sürümleri eşit geçerliliğe sahiptir. Farklı dil metinleri arasında herhangi bir belirsizlik ortaya çıkarsa, bunları bu Şartların amacı ve bağlamı ışığında ve yürürlükteki emredici kanunla birlikte iyi niyetle yorumlayacağız.
 
 ---
 

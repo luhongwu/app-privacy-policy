@@ -17,16 +17,16 @@ dir: ltr
 
 ---
 
-> **Küresel Hizmet Bildirimi (Global Service Statement)**
+> **Sınır Ötesi Veri İşleme ve Haklarınız (Açıklayıcı Özet)**
 >
-> BoboBru, dünya genelindeki kullanıcılara hizmet veren bir AI saç modeli uygulamasıdır. Farklı ülke ve bölgelerdeki kullanıcılara güvenli, güvenilir ve yerelleştirilmiş bir ürün deneyimi sunmayı taahhüt ediyoruz:
+> Bu bölüm, yalnızca bu Politikanın ana noktalarını hızlıca anlamanıza yardımcı olmak amacıyla sunulan açıklayıcı bir özettir. Bu bölüm **bu Politikayı tamamlamaz veya değiştirmez; bu Politikanın yürürlükteki hükümleri bu bölüme göre üstün olur**.
 >
-> - **Çok ülke kapsamı**: Uygulama dünya genelindeki birçok ülke veya bölgede listelenmekte ve hizmet sunmaktadır; ülkenizdeki veya bölgenizdeki uygulama mağazasından indirip kullanabilirsiniz;
-> - **Çok dil desteği**: Farklı dil geçmişine sahip kullanıcılar için yerelleştirilmiş bir arayüz sunuyoruz. Şu anda **18 dil** desteklenmektedir — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe ve Tiếng Việt — ve yenilerini eklemeye devam edeceğiz; Arapça (العربية) sağdan sola (RTL) düzeni kullanır;
-> - **Yerelleştirilmiş uyum**: Bulunduğunuz yerin kanun ve yönetmeliklerine saygı duyuyoruz ve kişisel bilgilerinizi yürürlükteki veri koruma kanunlarına uygun olarak işliyoruz (bunlarla sınırlı olmamak üzere Çin'in Kişisel Bilgilerin Korunması Kanunu, AB GDPR / Birleşik Krallık GDPR ve Kaliforniya CCPA/CPRA dâhil) (Bölüm 7'deki sınır ötesi aktarım notlarına bakın);
-> - **Tutarlı gizlilik taahhüdü**: Nerede olursanız olun, "önce gizlilik ve veri minimizasyonu" ilkesine bağlı kalarak bilme, seçme ve kontrol etme haklarınızı koruyoruz.
+> - **Kayıt yok, kimlik tespiti yok**: Uygulama telefon numaralarını, e-posta adreslerini, adları, kesin konumu, kişileri veya reklam kimliklerini ya da başka herhangi bir kimlik tespit edici bilgiyi kullanmaz; tüm özellikler anonim olarak kullanılabilir (Bölüm 2 ve 11)
+> - **Fotoğraflar yalnızca mevcut üretim için kullanılır**: Gönüllü olarak yüklediğiniz fotoğraflar yalnızca mevcut üretimi tamamlamak için gerekli olan süre boyunca işlenir ve başka amaçlarla saklanmaz; şifreli bir HTTPS / TLS bağlantısı üzerinden iletilir; AI sağlayıcısı bunların 24 saat içinde otomatik olarak silindiğini belirtmektedir. **Fotoğraflarınız tarafımızca reklam, kullanıcı profillemesi veya AI modellerinin eğitimi amacıyla kullanılmaz** (Bölüm 3, 7 ve 9)
+> - **Sınır ötesi işleme için eşdeğer güvenceler**: Fotoğraflarınız ve gerekli kayıtlar, işlenmek üzere ülkeniz veya bölgeniz dışına aktarılabilir; fiilî dağıtıma bağlı olarak veri minimizasyonu, HTTPS / TLS şifrelemesi, Çin'in Kişisel Bilgilerin İhracına İlişkin Standart Sözleşme Tedbirleri kapsamında öngörülen standart sözleşme ve AB Standart Sözleşme Maddeleri (SCC) gibi güvenceler uygularız (Bölüm 7)
+> - **Kontrol sizde kalır**: Yerel geçmişinizi her zaman silebilir, sistem ayarlarınızda vermiş olduğunuz izinleri geri alabilir ve tüm yerel verileri silmek için Uygulamayı kaldırabilirsiniz; ayrıca ayrı onayınızı geri çekebilir veya Bölüm 13'teki e-posta adresi aracılığıyla sunucu tarafındaki kayıtların silinmesini talep edebilirsiniz (Bölüm 9 ve 11)
 >
-> Yerelleştirilmiş hizmetler, dil desteği veya sınır ötesi veri işleme hakkında sorularınız varsa, Bölüm 13'teki iletişim bilgilerini kullanarak istediğiniz zaman bizimle iletişime geçebilirsiniz.
+> Yukarıdaki taahhütler, hangi ülke veya bölgede bulunursanız bulunun tutarlı şekilde uygulanır. Bu Politika birden çok dilde sunulmaktadır; dil sürümleri ve bunların etkisi için Bölüm 14'e bakın. Dünya genelindeki kullanıcılara yönelik hizmet taahhütlerimiz için ayrıca Hizmet Şartları'ndaki Küresel Hizmet Bildirimi'ne bakın. Sınır ötesi veri işleme hakkında sorularınız varsa, lütfen Bölüm 13'teki iletişim bilgilerini kullanarak bizimle iletişime geçin.
 
 ---
 
@@ -299,4 +299,4 @@ Avrupa Birliği'ndeyseniz, haklarınızı kullanmak için yukarıdaki e-posta ad
 
 ## 14. Dil Sürümü ve Geçerlilik
 
-Bu Politika Çince metne tabidir ve yalnızca ona dayanılarak yorumlanır; diğer dillere çeviriler yalnızca okuma kolaylığı için sağlanmıştır ve **yorum için dayanak teşkil etmez, bağımsız bir hukuki sonuç veya herhangi bir hak veya yükümlülük doğurmaz**. Bu Politika ile Hizmet Şartları'nın kişisel bilgilerin korunmasına ilişkin konularda çelişmesi hâlinde **bu Politika üstün olur**; diğer konularda Hizmet Şartları üstün olur.
+Bu Politika birden çok dilde sunulmaktadır ve tüm dil sürümleri eşit geçerliliğe sahiptir. Farklı dil metinleri arasında herhangi bir belirsizlik ortaya çıkarsa, bunu bu Politikanın amacı ve bağlamı ışığında ve yürürlükteki emredici kanunla birlikte iyi niyetle yorumlayacağız. Bu Politika ile Hizmet Şartları'nın kişisel bilgilerin korunmasına ilişkin konularda çelişmesi hâlinde **bu Politika üstün olur**; diğer konularda Hizmet Şartları üstün olur.

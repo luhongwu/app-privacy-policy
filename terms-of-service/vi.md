@@ -19,14 +19,14 @@ dir: ltr
 
 > **Tuyên bố về dịch vụ toàn cầu (Global Service Statement)**
 >
-> BoboBru là một ứng dụng kiểu tóc AI phục vụ người dùng trên toàn thế giới. Chúng tôi cam kết mang đến trải nghiệm sản phẩm an toàn, đáng tin cậy và được bản địa hóa cho người dùng ở các quốc gia và khu vực khác nhau:
+> BoboBru là một ứng dụng kiểu tóc AI phục vụ người dùng trên toàn thế giới. Tuyên bố này mô tả các cam kết cơ bản của chúng tôi trong việc phục vụ người dùng toàn cầu; tuyên bố này **không bổ sung hay sửa đổi các Điều khoản này; các quy định có hiệu lực của các Điều khoản này được ưu tiên áp dụng so với Tuyên bố này**.
 >
-> - **Phủ sóng nhiều quốc gia**: Ứng dụng được niêm yết và cung cấp dịch vụ tại nhiều quốc gia hoặc khu vực trên thế giới; bạn có thể tải xuống và sử dụng từ kho ứng dụng tại quốc gia hoặc khu vực của mình. Giá cả, thuế và các tính năng khả dụng có thể khác nhau theo quốc gia hoặc khu vực (xem Mục 2.3);
-> - **Hỗ trợ đa ngôn ngữ**: Chúng tôi cung cấp giao diện được bản địa hóa cho người dùng có nền tảng ngôn ngữ khác nhau. Hiện chúng tôi hỗ trợ **18 ngôn ngữ** — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe và Tiếng Việt — và sẽ tiếp tục bổ sung; tiếng Ả Rập (العربية) sử dụng bố cục từ phải sang trái (RTL);
-> - **Tuân thủ theo địa phương**: Chúng tôi tôn trọng pháp luật và quy định tại địa phương của bạn và cung cấp Ứng dụng cùng các dịch vụ theo luật bảo vệ người tiêu dùng và bảo vệ dữ liệu hiện hành (bao gồm nhưng không giới hạn ở luật của Trung Quốc, GDPR của EU / GDPR của Anh và CCPA/CPRA của California) (xem Mục 10, Luật áp dụng và Giải quyết tranh chấp);
-> - **Quyền lợi người dùng nhất quán**: Dù bạn ở đâu, chúng tôi tuân thủ các nguyên tắc công bằng, minh bạch và tôn trọng quyền lợi người dùng, để các quyền hợp pháp của bạn không bị ảnh hưởng bởi vị trí địa lý.
+> - **Phủ sóng nhiều quốc gia/khu vực**: Ứng dụng được niêm yết và cung cấp dịch vụ thông qua các kho ứng dụng tại nhiều quốc gia/khu vực; bạn có thể tải xuống và sử dụng tại quốc gia hoặc khu vực của mình; **giá cả, thuế và các tính năng khả dụng có thể khác nhau theo quốc gia hoặc khu vực** (xem Mục 2.3).
+> - **Hỗ trợ đa ngôn ngữ**: Giao diện của Ứng dụng và các Điều khoản này được cung cấp bằng nhiều ngôn ngữ, bao gồm tiếng Trung phồn thể, cũng như các ngôn ngữ sử dụng bố cục từ phải sang trái (RTL) như tiếng Ả Rập và tiếng Ba Tư; **các ngôn ngữ khả dụng là những ngôn ngữ được liệt kê trong "Cài đặt → Ngôn ngữ" của Ứng dụng**, và chúng tôi sẽ tiếp tục mở rộng các ngôn ngữ được hỗ trợ.
+> - **Tuân thủ theo địa phương**: Chúng tôi tôn trọng pháp luật và quy định tại địa phương của bạn và cung cấp Ứng dụng cùng các dịch vụ theo luật bảo vệ người tiêu dùng và bảo vệ dữ liệu hiện hành (bao gồm nhưng không giới hạn ở Luật Bảo vệ Thông tin Cá nhân của Trung Quốc, GDPR của EU / GDPR của Anh và CCPA/CPRA của California) (xem Mục 10); **các Điều khoản này không loại trừ việc áp dụng các quy tắc bảo vệ người tiêu dùng bắt buộc (không thể từ bỏ) của pháp luật tại địa phương của bạn**.
+> - **Quyền lợi người dùng nhất quán**: Dù bạn ở đâu, chúng tôi tuân thủ các nguyên tắc công bằng, minh bạch và tôn trọng quyền lợi người dùng: các cam kết xử lý dữ liệu thống nhất (ảnh chỉ được sử dụng cho lần tạo hiện tại, không được dùng cho quảng cáo hay huấn luyện mô hình AI, và việc chuyển dữ liệu qua biên giới được bảo vệ bằng mã hóa và các hợp đồng tiêu chuẩn — xem Chính sách quyền riêng tư), các kênh thực hiện quyền thống nhất, và một kênh liên hệ thống nhất (Mục 11).
 >
-> Nếu bạn có câu hỏi về dịch vụ bản địa hóa, hỗ trợ ngôn ngữ hoặc các quy tắc hiện hành, vui lòng liên hệ với chúng tôi bất kỳ lúc nào bằng thông tin chi tiết tại Mục 11.
+> Nếu bạn có câu hỏi về dịch vụ bản địa hóa, hỗ trợ ngôn ngữ, xử lý dữ liệu qua biên giới hoặc các quy tắc hiện hành, vui lòng liên hệ với chúng tôi bất kỳ lúc nào bằng thông tin chi tiết tại Mục 11.
 
 ---
 
@@ -52,7 +52,7 @@ Chính sách quyền riêng tư của Ứng dụng là một phần không thể
 - Hơn 60 kiểu tóc (danh mục nam/nữ) và 22 màu tóc để lựa chọn;
 - Tạo ảnh xem trước kiểu tóc bằng AI theo kiểu bất đồng bộ;
 - Lưu kết quả đã tạo vào thư viện ảnh của hệ thống và quản lý bản ghi lịch sử;
-- Giao diện song ngữ Trung/Anh, chế độ tối/sáng và nhiều màu chủ đề.
+- Giao diện đa ngôn ngữ (bao gồm bố cục từ phải sang trái (RTL)), chế độ tối/sáng và nhiều màu chủ đề.
 
 ### 2.2 Bản Chất Dịch Vụ
 
@@ -302,7 +302,7 @@ Việc hình thành, thực hiện và giải thích các Điều khoản này �
 
 **Từ bỏ khởi kiện tập thể (chỉ trong phạm vi luật pháp cho phép)**: Trong phạm vi luật hiện hành cho phép (bao gồm các khu vực tài phán như Hoa Kỳ công nhận việc từ bỏ như vậy), cả hai bên đồng ý giải quyết tranh chấp trên cơ sở cá nhân và không khởi kiện hay tham gia vào bất kỳ thủ tục nào với tư cách là người đại diện, theo nhóm (class) hoặc trên cơ sở hợp nhất. **Tại các khu vực tài phán nơi việc từ bỏ như vậy không được phép (ví dụ: EU, Anh và Trung Quốc), đoạn này không áp dụng, và bất kỳ biện pháp khắc phục tập thể hoặc theo nhóm nào mà bạn có theo pháp luật đều không bị ảnh hưởng.**
 
-Các Điều khoản này được điều chỉnh bởi và chỉ được giải thích trên cơ sở văn bản tiếng Trung; các bản dịch sang ngôn ngữ khác chỉ được cung cấp để thuận tiện cho việc đọc và **không cấu thành căn cứ để giải thích, cũng như không tạo ra bất kỳ hiệu lực pháp lý độc lập hay bất kỳ quyền hoặc nghĩa vụ nào**.
+Các Điều khoản này được cung cấp bằng nhiều ngôn ngữ và tất cả các phiên bản ngôn ngữ đều có giá trị xác thực như nhau. Nếu có bất kỳ điểm nào chưa rõ ràng giữa các văn bản ngôn ngữ khác nhau, chúng tôi sẽ giải thích chúng một cách thiện chí dựa trên mục đích và bối cảnh của các Điều khoản này, kết hợp với pháp luật bắt buộc hiện hành.
 
 ---
 

@@ -17,16 +17,16 @@ dir: ltr
 
 ---
 
-> **Verklaring over wereldwijde dienstverlening (Global Service Statement)**
+> **Grensoverschrijdende gegevensverwerking en uw rechten (toelichtende samenvatting)**
 >
-> BoboBru is een AI-kapselapp die gebruikers wereldwijd bedient. Wij streven ernaar gebruikers in verschillende landen en regio's een veilige, betrouwbare en gelokaliseerde productervaring te bieden:
+> Deze paragraaf is een toelichtende samenvatting die uitsluitend is bedoeld om u de kernpunten van dit beleid snel te laten begrijpen. Zij **vult dit beleid niet aan en wijzigt dit beleid niet; de bepalende bepalingen van dit beleid gaan boven deze paragraaf**.
 >
-> - **Dekking in meerdere landen**: De app wordt in meerdere landen of regio's wereldwijd aangeboden en levert daar diensten; u kunt de app downloaden en gebruiken via de app store in uw land of uw regio;
-> - **Ondersteuning voor meerdere talen**: Wij bieden een gelokaliseerde interface voor gebruikers met een verschillende taalachtergrond. Wij ondersteunen momenteel **18 talen** — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe en Tiếng Việt — en blijven deze uitbreiden; het Arabisch (العربية) gebruikt een lay-out van rechts naar links (RTL);
-> - **Gelokaliseerde naleving**: Wij respecteren de wet- en regelgeving van uw locatie en verwerken uw persoonsgegevens in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming (waaronder, maar niet beperkt tot, de Chinese Wet op de bescherming van persoonsgegevens, de EU-GDPR / de Britse GDPR en de CCPA/CPRA van Californië) (zie de opmerkingen over grensoverschrijdende doorgifte in Paragraaf 7);
-> - **Consistente privacy-inzet**: Waar u zich ook bevindt, wij houden vast aan het beginsel "privacy voorop en minimale gegevensverwerking" en beschermen uw recht op informatie, keuze en controle.
+> - **Geen registratie, geen identificatie**: De App gebruikt geen telefoonnummers, e-mailadressen, namen, precieze locatie, contacten of advertentie-ID's, noch andere identificerende informatie; alle functies kunnen anoniem worden gebruikt (Paragrafen 2 en 11)
+> - **Foto's worden uitsluitend voor de huidige generatie gebruikt**: Foto's die u vrijwillig uploadt, worden alleen verwerkt zolang dat nodig is om de huidige generatie te voltooien en worden niet voor andere doeleinden bewaard; zij worden verzonden via een versleutelde HTTPS-/TLS-verbinding; de AI-leverancier geeft aan dat zij binnen 24 uur automatisch worden verwijderd. **Uw foto's worden door ons niet gebruikt voor advertenties, voor het opstellen van gebruikersprofielen of voor het trainen van AI-modellen** (Paragrafen 3, 7 en 9)
+> - **Gelijkwaardige waarborgen bij grensoverschrijdende verwerking**: Uw foto's en de noodzakelijke gegevens kunnen voor verwerking worden doorgegeven buiten uw land of uw regio; afhankelijk van de feitelijke inzet passen wij waarborgen toe zoals gegevensminimalisatie, HTTPS-/TLS-versleuteling, de standaardovereenkomst die is voorzien in de Chinese maatregelen voor de standaardovereenkomst voor de uitvoer van persoonsgegevens, en de EU-modelcontractbepalingen (SCC's) (Paragraaf 7)
+> - **U houdt de controle**: U kunt uw lokale geschiedenis op elk moment verwijderen, verleende toestemmingen intrekken in uw systeeminstellingen en de App verwijderen om alle lokale gegevens te wissen; u kunt ook uw afzonderlijke toestemming intrekken of via het e-mailadres in Paragraaf 13 verzoeken om verwijdering van de gegevens op onze servers (Paragrafen 9 en 11)
 >
-> Hebt u vragen over gelokaliseerde diensten, taalondersteuning of grensoverschrijdende gegevensverwerking? Neem dan op elk moment contact met ons op via de gegevens in Paragraaf 13.
+> De bovenstaande toezeggingen gelden, ongeacht in welk land of welke regio u zich bevindt, op dezelfde wijze. Dit beleid wordt in meerdere talen aangeboden; zie Paragraaf 14 voor de taalversies en hun werking. Voor onze toezeggingen aan gebruikers wereldwijd, zie ook de Verklaring over wereldwijde dienstverlening in de Servicevoorwaarden. Hebt u vragen over grensoverschrijdende gegevensverwerking? Neem dan contact met ons op via de gegevens in Paragraaf 13.
 
 ---
 
@@ -299,4 +299,4 @@ Als u zich in de Europese Unie bevindt, kunt u rechtstreeks contact met ons opne
 
 ## 14. Taalversie en werking
 
-Op dit beleid is de Chinese tekst van toepassing en het wordt uitsluitend op basis daarvan uitgelegd; vertalingen in andere talen worden uitsluitend voor het leesgemak verstrekt en **vormen geen grondslag voor uitleg, noch scheppen zij enige zelfstandige rechtsgevolgen of rechten of verplichtingen**. Waar dit beleid en de Servicevoorwaarden op punten van bescherming van persoonsgegevens met elkaar in strijd zijn, **heeft dit beleid voorrang**; op andere punten hebben de Servicevoorwaarden voorrang.
+Dit beleid wordt in meerdere talen aangeboden en alle taalversies zijn gelijkelijk authentiek. Als er tussen de verschillende taalversies onduidelijkheid ontstaat, zullen wij die te goeder trouw uitleggen in het licht van het doel en de context van dit beleid en in samenhang met het toepasselijke dwingende recht. Waar dit beleid en de Servicevoorwaarden op punten van bescherming van persoonsgegevens met elkaar in strijd zijn, **heeft dit beleid voorrang**; op andere punten hebben de Servicevoorwaarden voorrang.

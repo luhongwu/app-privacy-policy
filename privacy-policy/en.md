@@ -17,16 +17,16 @@ dir: ltr
 
 ---
 
-> **Global Service Statement**
+> **Cross-Border Data Processing and Your Rights (Explanatory Summary)**
 >
-> BoboBru is an AI hairstyle app serving users worldwide. We are committed to providing a safe, trustworthy, and localized product experience for users in different countries and regions:
+> This section is an explanatory summary provided only to help you quickly understand the key points of this Policy. It **does not supplement or modify this Policy; the operative provisions of this Policy prevail over this section**.
 >
-> - **Multi-country coverage**: The App is listed and provides services in multiple countries or regions around the world; you can download and use it from the app store in your country or region;
-> - **Multi-language support**: We provide a localized interface for users with different language backgrounds. We currently support **18 languages** — Simplified Chinese, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe, and Tiếng Việt — and will continue to add more; Arabic (العربية) uses right-to-left (RTL) layout;
-> - **Localized compliance**: We respect the laws and regulations of your location and process your personal information in accordance with applicable data-protection laws (including but not limited to China's Personal Information Protection Law, the EU GDPR / UK GDPR, and California's CCPA/CPRA) (see the cross-border transfer notes in Section 7);
-> - **Consistent privacy commitment**: Wherever you are, we adhere to the principle of "privacy first and data minimization", safeguarding your rights to be informed, to choose, and to control.
+> - **No registration, no identification**: The App does not use phone numbers, email addresses, names, precise location, contacts, or advertising IDs, or other identifying information; all features can be used anonymously (Sections 2 and 11)
+> - **Photos are used only for the current generation**: Photos you voluntarily upload are processed only for as long as necessary to complete the current generation and are not retained for other purposes; they are transmitted over an encrypted HTTPS / TLS connection; the AI provider states that they are automatically deleted within 24 hours. **Your photos are not used by us for advertising, user profiling, or training AI models** (Sections 3, 7, and 9)
+> - **Equivalent safeguards for cross-border processing**: Your photos and necessary records may be transferred outside your country or region for processing; depending on the actual deployment, we apply safeguards such as data minimization, HTTPS / TLS encryption, the standard contract provided for under China's Measures for the Standard Contract for the Export of Personal Information, and the EU Standard Contractual Clauses (SCCs) (Section 7)
+> - **You remain in control**: You may delete your local history at any time, revoke granted permissions in your system settings, and uninstall the App to erase all local data; you may also withdraw your separate consent or request deletion of server-side records via the email address in Section 13 (Sections 9 and 11)
 >
-> If you have any questions about localized services, language support, or cross-border data processing, please contact us at any time using the details in Section 13.
+> The above commitments apply consistently no matter which country or region you are located in. This Policy is provided in multiple languages; see Section 14 for language versions and their effect. For our service commitments to users worldwide, see also the Global Service Statement in the Terms of Service. If you have any questions about cross-border data processing, please contact us using the details in Section 13.
 
 ---
 
@@ -299,4 +299,4 @@ If you are in the European Union, you may contact us directly at the email above
 
 ## 14. Language Version and Effect
 
-This Policy is governed by, and shall be interpreted solely on the basis of, the Chinese-language text; the English translation is provided for convenience of reading only and **does not constitute a basis for interpretation, nor does it create any independent legal effect or any rights or obligations**. Where this Policy and the Terms of Service are inconsistent on matters of personal information protection, **this Policy prevails**; on other matters, the Terms of Service prevail.
+This Policy is provided in multiple languages, and all language versions are equally authentic. If any ambiguity arises between the different language texts, we will interpret it in good faith in light of the purpose and context of this Policy and in conjunction with applicable mandatory law. Where this Policy and the Terms of Service are inconsistent on matters of personal information protection, **this Policy prevails**; on other matters, the Terms of Service prevail.

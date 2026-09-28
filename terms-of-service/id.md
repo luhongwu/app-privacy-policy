@@ -19,14 +19,14 @@ dir: ltr
 
 > **Pernyataan Layanan Global (Global Service Statement)**
 >
-> BoboBru adalah aplikasi gaya rambut AI yang melayani pengguna di seluruh dunia. Kami berkomitmen untuk memberikan pengalaman produk yang aman, tepercaya, dan terlokalisasi bagi pengguna di berbagai negara dan wilayah:
+> BoboBru adalah aplikasi gaya rambut AI yang melayani pengguna di seluruh dunia. Pernyataan ini menjabarkan komitmen dasar kami dalam melayani pengguna secara global; Pernyataan ini **tidak menambah atau mengubah Ketentuan ini; ketentuan operasional Ketentuan ini berlaku mengesampingkan Pernyataan ini**.
 >
-> - **Cakupan multi-negara**: Aplikasi ini terdaftar dan menyediakan layanan di berbagai negara atau wilayah di seluruh dunia; Anda dapat mengunduh dan menggunakannya dari toko aplikasi di negara atau wilayah Anda. Harga, pajak, dan fitur yang tersedia dapat berbeda menurut negara atau wilayah (lihat Bagian 2.3);
-> - **Dukungan multi-bahasa**: Kami menyediakan antarmuka yang terlokalisasi bagi pengguna dengan latar belakang bahasa yang berbeda. Saat ini kami mendukung **18 bahasa** — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe, dan Tiếng Việt — dan akan terus menambahnya; bahasa Arab (العربية) menggunakan tata letak kanan-ke-kiri (RTL);
-> - **Kepatuhan terlokalisasi**: Kami menghormati hukum dan peraturan di lokasi Anda serta menyediakan Aplikasi dan layanan sesuai dengan hukum perlindungan konsumen dan perlindungan data yang berlaku (termasuk namun tidak terbatas pada hukum Tiongkok, GDPR Uni Eropa / GDPR Inggris, dan CCPA/CPRA California) (lihat Bagian 10, Hukum yang Mengatur dan Penyelesaian Sengketa);
-> - **Hak pengguna yang konsisten**: Di mana pun Anda berada, kami berpegang pada prinsip keadilan, transparansi, dan penghormatan terhadap hak pengguna, sehingga hak sah Anda tidak terpengaruh oleh geografi.
+> - **Cakupan multi-negara/wilayah**: Aplikasi terdaftar di dan menyediakan layanan melalui toko aplikasi di berbagai negara/wilayah; Anda dapat mengunduh dan menggunakannya di negara atau wilayah Anda; **harga, pajak, dan fitur yang tersedia dapat berbeda menurut negara atau wilayah** (lihat Bagian 2.3).
+> - **Dukungan multi-bahasa**: Antarmuka Aplikasi dan Ketentuan ini disediakan dalam berbagai bahasa, termasuk Mandarin Tradisional, serta bahasa yang menggunakan tata letak kanan-ke-kiri (RTL) seperti Arab dan Persia; **bahasa yang tersedia adalah sebagaimana tercantum pada "Pengaturan → Bahasa" di dalam Aplikasi**, dan kami akan terus memperluas bahasa yang didukung.
+> - **Kepatuhan terlokalisasi**: Kami menghormati hukum dan peraturan di lokasi Anda serta menyediakan Aplikasi dan layanan sesuai dengan hukum perlindungan konsumen dan perlindungan data yang berlaku (termasuk namun tidak terbatas pada Undang-Undang Perlindungan Informasi Pribadi Tiongkok, GDPR Uni Eropa / GDPR Inggris, dan CCPA/CPRA California) (lihat Bagian 10); **Ketentuan ini tidak mengesampingkan penerapan aturan perlindungan konsumen yang bersifat memaksa (tidak dapat dilepaskan) berdasarkan hukum di lokasi Anda**.
+> - **Hak pengguna yang konsisten**: Di mana pun Anda berada, kami berpegang pada prinsip keadilan, transparansi, dan penghormatan terhadap hak pengguna: komitmen pemrosesan data yang seragam (foto hanya digunakan untuk generasi saat ini, tidak digunakan untuk iklan atau untuk pelatihan model AI, dan transfer lintas batas dilindungi oleh enkripsi dan kontrak standar — lihat Kebijakan Privasi), saluran yang seragam untuk menggunakan hak Anda, dan saluran kontak yang seragam (Bagian 11).
 >
-> Jika Anda memiliki pertanyaan tentang layanan terlokalisasi, dukungan bahasa, atau aturan yang berlaku, silakan hubungi kami kapan saja menggunakan detail pada Bagian 11.
+> Jika Anda memiliki pertanyaan tentang layanan terlokalisasi, dukungan bahasa, pemrosesan data lintas batas, atau aturan yang berlaku, silakan hubungi kami kapan saja menggunakan detail pada Bagian 11.
 
 ---
 
@@ -52,7 +52,7 @@ Aplikasi adalah **alat pratinjau gaya rambut AI**. Anda mengunggah foto, memilih
 - 60+ gaya rambut (kategori pria/wanita) dan 22 warna rambut untuk dipilih;
 - Generasi asinkron gambar pratinjau gaya rambut oleh AI;
 - Menyimpan hasil yang dihasilkan ke perpustakaan foto sistem dan mengelola riwayat;
-- Antarmuka dwibahasa Mandarin/Inggris, mode gelap/terang, dan berbagai warna tema.
+- Antarmuka multi-bahasa (termasuk tata letak kanan-ke-kiri (RTL)), mode gelap/terang, dan berbagai warna tema.
 
 ### 2.2 Sifat Layanan
 
@@ -302,7 +302,7 @@ Pembentukan, pelaksanaan, dan penafsiran Ketentuan ini diatur oleh hukum yurisdi
 
 **Pelepasan gugatan perwakilan kelompok (hanya jika diizinkan oleh hukum)**: Sejauh diizinkan oleh hukum yang berlaku (termasuk yurisdiksi seperti Amerika Serikat yang mengakui pelepasan tersebut), kedua pihak setuju untuk menyelesaikan sengketa secara individual dan tidak mengajukan atau berpartisipasi dalam proses apa pun sebagai perwakilan, atas dasar kelompok (class), atau secara gabungan. **Di yurisdiksi tempat pelepasan tersebut tidak diizinkan (misalnya UE, Inggris, dan Tiongkok), paragraf ini tidak berlaku, dan pemulihan kolektif atau kelompok apa pun yang tersedia bagi Anda berdasarkan hukum tidak terpengaruh.**
 
-Ketentuan ini diatur oleh, dan semata-mata ditafsirkan berdasarkan, teks bahasa Mandarin; terjemahan ke bahasa lain hanya disediakan untuk kemudahan membaca dan **tidak merupakan dasar penafsiran, serta tidak menciptakan kekuatan hukum yang berdiri sendiri atau hak maupun kewajiban apa pun**.
+Ketentuan ini disediakan dalam berbagai bahasa, dan seluruh versi bahasa sama-sama otentik. Jika terjadi ambiguitas di antara berbagai teks bahasa tersebut, kami akan menafsirkannya dengan iktikad baik berdasarkan tujuan dan konteks Ketentuan ini serta dengan memperhatikan hukum memaksa yang berlaku.
 
 ---
 

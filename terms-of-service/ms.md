@@ -14,14 +14,14 @@
 
 > **Kenyataan Perkhidmatan Global (Global Service Statement)**
 >
-> BoboBru ialah aplikasi tukar gaya rambut AI untuk pengguna di seluruh dunia. Kami komited untuk menyediakan pengalaman produk yang selamat, boleh dipercayai dan setempat untuk pengguna di pelbagai negara dan wilayah:
+> BoboBru ialah aplikasi tukar gaya rambut AI yang melayani pengguna di seluruh dunia. Kenyataan ini menerangkan komitmen asas kami dalam melayani pengguna secara global; ia **tidak menambah atau mengubah Terma ini; peruntukan operasional Terma ini mengatasi Kenyataan ini**.
 >
-> - **Liputan Pelbagai Negara**: Aplikasi ini diterbitkan dan disediakan di banyak negara dan wilayah di seluruh dunia; anda boleh memuat turun dan menggunakannya dari gedung aplikasi di negara atau wilayah anda, dan harga, cukai serta fungsi yang tersedia mungkin berbeza mengikut negara atau wilayah (lihat Seksyen 2.3);
-> - **Sokongan Pelbagai Bahasa**: Kami menyediakan antara muka setempat untuk pengguna dengan latar belakang bahasa yang berbeza, dan pada masa ini menyokong **简体中文、English、Español、Português、العربية、日本語、한국어、Deutsch、Français、हिन्दी、Bahasa Indonesia、Italiano、Nederlands、Polski、Русский、ไทย、Türkçe、Tiếng Việt、繁體中文、فارسی、Bahasa Melayu** seramai 21 bahasa, dan akan terus mengembangkan lebih banyak bahasa; bahasa Arab (العربية) menggunakan susun atur kanan-ke-kiri (RTL);
-> - **Pematuhan Setempat**: Kami menghormati undang-undang dan peraturan di kawasan anda, dan menyediakan aplikasi serta perkhidmatan ini mengikut peruntukan perlindungan pengguna dan perlindungan data yang terpakai (termasuk, tanpa had, China, GDPR EU / UK GDPR UK, CCPA/CPRA California, dll.) (lihat Seksyen 10 berkenaan undang-undang terpakai dan penyelesaian pertikaian);
-> - **Hak Pengguna yang Konsisten**: Tidak kira di mana anda berada, kami menegakkan prinsip perkhidmatan yang adil, telus dan menghormati hak pengguna, untuk melindungi hak sah anda daripada terjejas oleh lokasi geografi.
+> - **Liputan Pelbagai Negara/Wilayah**: Aplikasi disenaraikan di dan menyediakan perkhidmatan melalui gedung aplikasi di pelbagai negara/wilayah; anda boleh memuat turun dan menggunakannya di negara atau wilayah anda; **harga, cukai dan fungsi yang tersedia mungkin berbeza mengikut negara atau wilayah** (lihat Seksyen 2.3).
+> - **Sokongan Pelbagai Bahasa**: Antara muka Aplikasi dan Terma ini disediakan dalam pelbagai bahasa, termasuk Cina Tradisional, serta bahasa yang menggunakan susun atur kanan-ke-kiri (RTL) seperti Arab dan Parsi; **bahasa yang tersedia ialah bahasa yang disenaraikan di bawah "Tetapan → Bahasa" dalam Aplikasi**, dan kami akan terus mengembangkan bahasa yang disokong.
+> - **Pematuhan Setempat**: Kami menghormati undang-undang dan peraturan di kawasan anda dan menyediakan Aplikasi serta perkhidmatan mengikut undang-undang perlindungan pengguna dan perlindungan data yang terpakai (termasuk, tanpa had, Akta Perlindungan Maklumat Peribadi China, GDPR EU / GDPR UK, dan CCPA/CPRA California) (lihat Seksyen 10); **Terma ini tidak mengecualikan pemakaian peraturan perlindungan pengguna mandatori (tidak boleh dilepaskan) di bawah undang-undang kawasan anda**.
+> - **Hak Pengguna yang Konsisten**: Di mana sahaja anda berada, kami berpegang pada prinsip keadilan, ketelusan dan penghormatan terhadap hak pengguna: komitmen pemprosesan data yang seragam (foto hanya digunakan untuk penjanaan semasa, tidak digunakan untuk pengiklanan atau latihan model AI, dan pemindahan merentas sempadan dilindungi oleh penyulitan dan kontrak standard — lihat Dasar Privasi), saluran seragam untuk melaksanakan hak anda, dan saluran hubungan yang seragam (Seksyen 11).
 >
-> Jika anda mempunyai sebarang pertanyaan tentang perkhidmatan setempat, sokongan bahasa atau peraturan terpakai, sila hubungi kami melalui cara yang dinyatakan dalam Seksyen 11 pada bila-bila masa.
+> Jika anda mempunyai sebarang pertanyaan tentang perkhidmatan setempat, sokongan bahasa, pemprosesan data merentas sempadan atau peraturan yang terpakai, sila hubungi kami pada bila-bila masa menggunakan butiran dalam Seksyen 11.
 
 ---
 
@@ -47,7 +47,7 @@ Aplikasi ini ialah **alat pratonton gaya rambut AI**. Selepas anda memuat naik f
 - Lebih 60 gaya rambut (kategori lelaki/wanita) dan 22 warna rambut untuk dipilih;
 - Penjanaan pratonton tukar gaya rambut AI secara tak segerak;
 - Menyimpan hasil penjanaan ke galeri sistem dan mengurus rekod sejarah;
-- Antara muka dwibahasa (Cina/Inggeris), mod gelap/terang dan pelbagai warna tema.
+- Antara muka pelbagai bahasa (termasuk susun atur kanan-ke-kiri (RTL)), mod gelap/terang dan pelbagai warna tema.
 
 ### 2.2 Perisytiharan Sifat Perkhidmatan
 
@@ -299,7 +299,7 @@ Pembentukan, pelaksanaan dan tafsiran Syarat ini tertakluk kepada undang-undang 
 
 **Pelepasan Remedi Kolektif (hanya untuk bidang kuasa yang membenarkannya mengikut undang-undang)**: Dalam lingkungan yang dibenarkan oleh undang-undang terpakai (termasuk bidang kuasa yang mengiktiraf pelepasan tersebut seperti AS), kedua-dua pihak bersetuju untuk menyelesaikan pertikaian secara individu, dan tidak boleh memulakan atau mengambil bahagian dalam apa-apa tindakan atau timbang tara dalam bentuk wakil, kolektif atau bergabung. **Dalam bidang kuasa yang tidak membenarkan pelepasan tersebut mengikut undang-undang (seperti EU, UK dan China), perenggan ini tidak terpakai, dan hak remedi kolektif/kumpulan yang dijamin oleh undang-undang kepada anda tidak terjejas.**
 
-Syarat ini tertakluk semata-mata kepada teks Cina dan ditafsirkan berdasarkannya; terjemahan Inggeris hanya disediakan untuk kemudahan bacaan, **tidak membentuk asas tafsiran Syarat ini, dan tidak mencipta ikatan undang-undang bebas atau mewujudkan apa-apa hak dan kewajipan**.
+Terma ini disediakan dalam pelbagai bahasa, dan semua versi bahasa adalah sama-sama sahih. Jika timbul sebarang kekaburan antara teks bahasa yang berbeza, kami akan mentafsirkannya dengan niat baik berdasarkan tujuan dan konteks Terma ini serta bersempena dengan undang-undang mandatori yang terpakai.
 
 ---
 

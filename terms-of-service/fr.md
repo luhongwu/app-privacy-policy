@@ -19,14 +19,14 @@ dir: ltr
 
 > **Déclaration de service mondial (Global Service Statement)**
 >
-> BoboBru est une application de changement de coiffure par IA destinée aux utilisateurs du monde entier. Nous nous engageons à offrir une expérience produit sûre, fiable et localisée aux utilisateurs de différents pays et régions :
+> BoboBru est une application de coiffure par IA destinée aux utilisateurs du monde entier. La présente Déclaration décrit nos engagements fondamentaux dans la prestation de services aux utilisateurs du monde entier ; elle **ne complète ni ne modifie les présentes Conditions ; les dispositions en vigueur des présentes Conditions prévalent sur la présente Déclaration**.
 >
-> - **Couverture multi-pays** : l'App est disponible et fournit ses services dans plusieurs pays ou régions du monde ; vous pouvez la télécharger et l'utiliser depuis la boutique d'applications de votre pays ou région. Les prix, taxes et fonctionnalités disponibles peuvent varier selon le pays ou la région (voir section 2.3) ;
-> - **Prise en charge multilingue** : nous proposons une interface localisée aux utilisateurs de différentes langues ; nous prenons actuellement en charge **18 langues** — chinois simplifié, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe et Tiếng Việt — et continuerons à en ajouter d'autres ; l'arabe (العربية) utilise une disposition de droite à gauche (RTL) ;
-> - **Conformité localisée** : nous respectons les lois et règlements de votre lieu de résidence et fournissons l'App et les services conformément aux lois applicables en matière de protection des consommateurs et de protection des données (notamment celles de Chine, le RGPD de l'UE / le RGPD britannique et la CCPA/CPRA californienne) (voir section 10, Droit applicable et règlement des litiges) ;
-> - **Droits des utilisateurs cohérents** : où que vous soyez, nous appliquons les principes d'équité, de transparence et de respect des droits des utilisateurs, afin que vos droits légitimes ne soient pas affectés par la géographie.
+> - **Couverture multi-pays/régions** : l'App est référencée dans les boutiques d'applications de plusieurs pays/régions et fournit ses services par leur intermédiaire ; vous pouvez la télécharger et l'utiliser dans votre pays ou région ; **les prix, taxes et fonctionnalités disponibles peuvent varier selon le pays ou la région** (voir section 2.3).
+> - **Prise en charge multilingue** : l'interface de l'App et les présentes Conditions sont fournies en plusieurs langues, dont le chinois traditionnel, ainsi que des langues utilisant une disposition de droite à gauche (RTL) telles que l'arabe et le persan ; **les langues disponibles sont celles listées sous « Paramètres → Langue » dans l'App**, et nous continuerons à étendre les langues prises en charge.
+> - **Conformité localisée** : nous respectons les lois et règlements de votre lieu de résidence et fournissons l'App et les services conformément aux lois applicables en matière de protection des consommateurs et de protection des données (notamment la Loi chinoise sur la protection des informations personnelles, le RGPD de l'UE / le RGPD britannique et la CCPA/CPRA californienne) (voir section 10) ; **les présentes Conditions n'excluent pas l'application des règles impératives (auxquelles il ne peut être renoncé) de protection des consommateurs prévues par la loi de votre lieu de résidence**.
+> - **Droits des utilisateurs cohérents** : où que vous soyez, nous adhérons aux principes d'équité, de transparence et de respect des droits des utilisateurs : des engagements uniformes en matière de traitement des données (les photos ne servent qu'à la génération en cours, ne sont pas utilisées à des fins publicitaires ni pour l'entraînement de modèles d'IA, et les transferts transfrontaliers sont protégés par le chiffrement et des contrats types — voir la Politique de confidentialité), des canaux uniformes pour l'exercice de vos droits et un canal de contact uniforme (section 11).
 >
-> Si vous avez des questions sur les services localisés, la prise en charge des langues ou les règles applicables, n'hésitez pas à nous contacter à tout moment via les coordonnées indiquées à la section 11.
+> Si vous avez des questions sur les services localisés, la prise en charge des langues, le traitement transfrontalier des données ou les règles applicables, n'hésitez pas à nous contacter à tout moment via les coordonnées indiquées à la section 11.
 
 ---
 
@@ -52,7 +52,7 @@ L'App est un **outil de prévisualisation de coiffures par IA**. Vous télévers
 - Plus de 60 coiffures (catégories homme/femme) et 22 couleurs de cheveux au choix ;
 - Génération asynchrone par IA d'images de prévisualisation de coiffures ;
 - Enregistrement des résultats générés dans la photothèque système et gestion de l'historique ;
-- Interface bilingue chinois/anglais, mode sombre/clair et plusieurs couleurs de thème.
+- Interface multilingue (y compris la disposition de droite à gauche (RTL)), mode sombre/clair et plusieurs couleurs de thème.
 
 ### 2.2 Nature du service
 
@@ -302,7 +302,7 @@ La formation, l'exécution et l'interprétation des présentes Conditions sont r
 
 **Renonciation aux actions collectives (uniquement lorsque la loi le permet)** : dans la mesure permise par la loi applicable (notamment dans des juridictions telles que les États-Unis qui reconnaissent de telles renonciations), les deux parties conviennent de régler les litiges à titre individuel et de ne pas engager ni de participer à une procédure en qualité de représentant, d'action collective ou d'action consolidée. **Dans les juridictions où une telle renonciation n'est pas admise (par exemple l'UE, le Royaume-Uni et la Chine), le présent paragraphe ne s'applique pas, et tout recours collectif ou de groupe dont vous disposez en vertu de la loi n'est pas affecté.**
 
-Les présentes Conditions sont régies par le texte en chinois et doivent être interprétées uniquement sur cette base ; la traduction dans d'autres langues est fournie uniquement pour faciliter la lecture et **ne constitue pas une base d'interprétation et ne crée aucun effet juridique indépendant ni aucun droit ou obligation**.
+Les présentes Conditions sont fournies en plusieurs langues et toutes les versions linguistiques ont la même force. Si une ambiguïté survient entre les différents textes linguistiques, nous les interpréterons de bonne foi à la lumière de l'objet et du contexte des présentes Conditions et conjointement avec le droit impératif applicable.
 
 ---
 

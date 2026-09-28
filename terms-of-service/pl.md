@@ -19,14 +19,14 @@ dir: ltr
 
 > **Oświadczenie o usłudze globalnej (Global Service Statement)**
 >
-> BoboBru to aplikacja do fryzur AI, która obsługuje użytkowników na całym świecie. Zobowiązujemy się zapewniać użytkownikom w różnych krajach i regionach bezpieczne, godne zaufania i zlokalizowane doświadczenie produktu:
+> BoboBru to aplikacja do fryzur AI, która obsługuje użytkowników na całym świecie. Niniejsze Oświadczenie opisuje nasze podstawowe zobowiązania w obsłudze użytkowników na świecie; **nie uzupełnia ono ani nie zmienia niniejszych Warunków; wiążące postanowienia niniejszych Warunków mają pierwszeństwo przed niniejszym Oświadczeniem**.
 >
-> - **Obsługiwane kraje**: Aplikacja jest dostępna i świadczy usługi w wielu krajach lub regionach na całym świecie; możesz ją pobrać i używać ze sklepu z aplikacjami w swoim kraju lub regionie. Ceny, podatki i dostępne funkcje mogą się różnić w zależności od kraju lub regionu (zob. Sekcja 2.3);
-> - **Wielojęzyczność**: Zapewniamy zlokalizowany interfejs dla użytkowników o różnym tle językowym. Obecnie obsługujemy **18 języków** — 简体中文, English, Español, Português, العربية, 日本語, 한국어, Deutsch, Français, हिन्दी, Bahasa Indonesia, Italiano, Nederlands, Polski, Русский, ไทย, Türkçe i Tiếng Việt — i będziemy je nadal rozszerzać; język arabski (العربية) korzysta z układu od prawej do lewej (RTL);
-> - **Zgodność z przepisami lokalnymi**: Szanujemy przepisy prawne obowiązujące w Twojej lokalizacji i udostępniamy Aplikację oraz usługi zgodnie z właściwymi przepisami o ochronie konsumentów i ochronie danych (w tym między innymi przepisami Chin, unijnym RODO / brytyjskim RODO oraz kalifornijskim CCPA/CPRA) (zob. Sekcja 10, Prawo właściwe i rozwiązywanie sporów);
-> - **Spójne prawa użytkownika**: Gdziekolwiek jesteś, stosujemy zasady uczciwości, przejrzystości i poszanowania praw użytkownika, aby Twoje prawa nie były uzależnione od położenia geograficznego.
+> - **Obsługa w wielu krajach/regionach**: Aplikacja jest dostępna i świadczy usługi za pośrednictwem sklepów z aplikacjami w wielu krajach lub regionach; możesz ją pobrać i używać w swoim kraju lub regionie; **ceny, podatki i dostępne funkcje mogą się różnić w zależności od kraju lub regionu** (zob. Sekcja 2.3).
+> - **Wielojęzyczność**: Interfejs Aplikacji oraz niniejsze Warunki są udostępniane w wielu językach, w tym w tradycyjnym chińskim, a także w językach korzystających z układu od prawej do lewej (RTL), takich jak arabski i perski; **dostępne języki to języki wymienione w „Ustawienia → Język" w Aplikacji**, i będziemy nadal rozszerzać liczbę obsługiwanych języków.
+> - **Zgodność z przepisami lokalnymi**: Szanujemy przepisy prawne obowiązujące w Twojej lokalizacji i udostępniamy Aplikację oraz usługi zgodnie z właściwymi przepisami o ochronie konsumentów i ochronie danych (w tym między innymi z chińską Ustawą o ochronie danych osobowych, unijnym RODO / brytyjskim RODO oraz kalifornijskim CCPA/CPRA) (zob. Sekcja 10); **niniejsze Warunki nie wyłączają zastosowania bezwzględnie obowiązujących (niepodlegających wyłączeniu) przepisów o ochronie konsumentów prawa Twojej lokalizacji**.
+> - **Spójne prawa użytkownika**: Gdziekolwiek jesteś, stosujemy zasady uczciwości, przejrzystości i poszanowania praw użytkownika: jednolite zobowiązania dotyczące przetwarzania danych (zdjęcia są wykorzystywane wyłącznie do bieżącego generowania, nie są używane do reklam ani do trenowania modeli AI, a transfery transgraniczne są chronione szyfrowaniem i umowami standardowymi — zob. Polityka prywatności), jednolite kanały wykonywania Twoich praw oraz jednolity kanał kontaktu (Sekcja 11).
 >
-> Jeśli masz pytania dotyczące zlokalizowanych usług, obsługi językowej lub właściwych zasad, skontaktuj się z nami w dowolnym momencie, korzystając z danych podanych w Sekcji 11.
+> Jeśli masz pytania dotyczące zlokalizowanych usług, obsługi językowej, transgranicznego przetwarzania danych lub właściwych zasad, skontaktuj się z nami w dowolnym momencie, korzystając z danych podanych w Sekcji 11.
 
 ---
 
@@ -52,7 +52,7 @@ Aplikacja to **narzędzie do podglądu fryzur AI**. Przesyłasz zdjęcie, wybier
 - Ponad 60 fryzur (kategorie męskie/damskie) i 22 kolory włosów do wyboru;
 - Asynchroniczne generowanie obrazów podglądu fryzury przez AI;
 - Zapisywanie wygenerowanych wyników w systemowej bibliotece zdjęć i zarządzanie historią;
-- Dwujęzyczny interfejs (chiński/angielski), tryb ciemny/jasny i wiele kolorów motywu.
+- Wielojęzyczny interfejs (w tym układ od prawej do lewej (RTL)), tryb ciemny/jasny i wiele kolorów motywu.
 
 ### 2.2 Charakter usługi
 
@@ -302,7 +302,7 @@ Zawarcie, wykonanie i interpretacja niniejszych Warunków podlegają prawu jurys
 
 **Zrzeczenie się powództw zbiorowych (wyłącznie w zakresie dozwolonym przez prawo)**: W zakresie dozwolonym przez obowiązujące prawo (w tym w jurysdykcjach takich jak Stany Zjednoczone, które uznają takie zrzeczenie) obie strony zgadzają się rozwiązywać spory indywidualnie oraz nie wnosić ani nie uczestniczyć w żadnym postępowaniu jako przedstawiciel, w ramach powództwa zbiorowego ani w postępowaniu połączonym. **W jurysdykcjach, w których takie zrzeczenie nie jest dozwolone (na przykład w UE, Wielkiej Brytanii i Chinach), niniejszy ustęp nie ma zastosowania, a wszelkie zbiorowe lub grupowe środki zaradcze przysługujące Ci na podstawie prawa pozostają nienaruszone.**
 
-Niniejsze Warunki podlegają tekstowi w języku chińskim i są wyłącznie na jego podstawie interpretowane; tłumaczenia na inne języki są udostępniane wyłącznie dla wygody czytelnika i **nie stanowią podstawy interpretacji ani nie tworzą żadnej samodzielnej mocy prawnej ani żadnych praw lub obowiązków**.
+Niniejsze Warunki są udostępniane w wielu językach i wszystkie wersje językowe są jednakowo autentyczne. Jeśli między poszczególnymi wersjami językowymi pojawi się niejednoznaczność, dokonamy jej wykładni w dobrej wierze, z uwzględnieniem celu i kontekstu niniejszych Warunków oraz w powiązaniu z właściwym prawem bezwzględnie obowiązującym.
 
 ---
 
